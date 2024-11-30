@@ -352,6 +352,8 @@ class BlockView {
     const isDefine = this.info.shape === "define-hat"
     let children = this.children
 
+    const hasOutlineChild = children.find(child => child.isOutline)
+
     const padding = BlockView.padding[this.info.shape] || BlockView.padding.null
     let pt = padding[0]
     const px = padding[1]
@@ -451,7 +453,8 @@ class BlockView {
       ? Math.max(innerWidth, 15 + scriptWidth)
       : innerWidth
     if (isDefine) {
-      const p = Math.min(26, (3.5 + 0.13 * innerWidth) | 0) - 18
+      let p = Math.min(26, (3.5 + 0.13 * innerWidth) | 0) - 18
+      if (!hasOutlineChild) p += 6
       this.height += p
       pt += 2 * p
     }
@@ -501,6 +504,17 @@ class BlockView {
       SVG.setProps(el, {
         fill: this.info.color,
       })
+    }
+
+    if (isDefine && !hasOutlineChild) {
+      const cap = el.querySelector(".sb-define-hat-cap")
+      if (cap) {
+        SVG.setProps(cap, {
+          stroke: this.info.color,
+          fill: "rgba(255, 255, 255, 0.15)",
+          class: `sb-${this.info.category}`,
+        })
+      }
     }
 
     return SVG.group(objects)
