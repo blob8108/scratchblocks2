@@ -100,8 +100,18 @@ function paintBlock(info, children, languages) {
           children.length - lang.defineSuffix.length,
         )
         .map(child => {
+          // In the context of an outline, only reporter and predicate
+          // parameter definitions can appear. At the point of parsing we
+          // didn't know that (define blocks are recognised in this later
+          // stage) -- so we need to convert the following back into
+          // reporters/predicates:
+          //
+          // - empty boolean slots `<>`
+          // - string inputs like `[foo]`
+          // - number inputs like `(1)`
+
+          // Convert empty boolean slot `<>` to an empty predicate.
           if (child.isInput && child.isBoolean) {
-            // Convert empty boolean slot to empty boolean argument.
             child = paintBlock(
               {
                 shape: "boolean",
@@ -115,7 +125,7 @@ function paintBlock(info, children, languages) {
             child.isInput &&
             (child.shape === "string" || child.shape === "number")
           ) {
-            // Convert string inputs to string arguments, number inputs to number arguments.
+            // Convert string inputs like `[foo]` and number inputs like `(1)` into reporter shapes.
             const labels = child.value.split(/ +/g).map(word => new Label(word))
             child = paintBlock(
               {
@@ -126,7 +136,11 @@ function paintBlock(info, children, languages) {
               labels,
               languages,
             )
-          } else if (child.isReporter || child.isBoolean) {
+          }
+
+          // Always override the category to `custom-arg` -- reporters like `(x
+          // position)` can't appear inside an outline.
+          if (child.isReporter || child.isBoolean) {
             // Convert variables to number arguments, predicates to boolean arguments.
             if (child.info.categoryIsDefault) {
               child.info.category = "custom-arg"
