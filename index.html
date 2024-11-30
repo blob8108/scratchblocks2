@@ -15,30 +15,15 @@
   display: block;
   margin-bottom: 20px;
 }
-#preview:before {
-  position: relative;
-  left: 1px;
-  min-width: 695px;
-  min-height: 842px;
-  z-index: 1;
-  transform: scale(0.66666);
-  transform-origin: 0 0;
-}
-.cmp #preview:before,
-.diff #preview:before {
+#screenshot {
   position: absolute;
-  display: block;
-  content: "";
-  background: url(screenshot.png) no-repeat -2px -3px;
-}
-.cmp.diff #preview:before {
-  -webkit-filter: invert(100%) opacity(50%);
-}
-.diff #preview:before {
-  -webkit-filter: opacity(50%);
-}
-.cmp img {
-  display: none;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+  transform: scale(0.666);
+  transform-origin: 0 0;
+  overflow: hidden;
 }
 body {
   background: #dddede;
@@ -68,7 +53,10 @@ body {
 <textarea id="editor"></textarea>
 </div>
 
+<div id="preview-wrapper">
+<div id="screenshot"></div>
 <pre id="preview" class="blocks"></pre>
+</div>
 
 <!---------------------------------------------------------------------------->
 
@@ -314,12 +302,116 @@ updatedFromHash();
 </script>
 
 <script>
+
 function showDiff(e) {
-  document.body.classList[e.ctrlKey ? 'add' : 'remove']('cmp');
-  document.body.classList[e.altKey  ? 'add' : 'remove']('diff');
+  screenshot.style.filter = e.metaKey ? "invert(100%)" : null
+  screenshot.style.opacity = e.shiftKey ? 1 : e.ctrlKey ? 0.5 : 0
 }
-document.addEventListener('keydown', showDiff);
-document.addEventListener('keyup', showDiff);
+document.addEventListener("keydown", showDiff)
+document.addEventListener("keyup", showDiff)
+
+function isGrey(rgb) {
+  // Yes this is dumb, but it works, so,
+  switch (rgb) {
+    case 0xf9f9f9:
+    case 0xf8f8f8:
+    case 0xf7f7f7:
+    case 0xf6f6f6:
+    case 0xf5f5f5:
+    case 0xf4f4f4:
+    case 0xf3f3f3:
+    case 0xf2f2f2:
+    case 0xf1f1f1:
+    case 0xf0f0f0:
+    case 0xefefef:
+    case 0xeeeeee:
+    case 0xededed:
+    case 0xececec:
+    case 0xebebeb:
+    case 0xeaeaea:
+    case 0xe9e9e9:
+    case 0xe8e8e8:
+    case 0xe7e7e7:
+    case 0xe6e6e6:
+    case 0xe6e6e6:
+    case 0xe4e4e4:
+    case 0xe3e3e3:
+    case 0xdedede:
+    case 0xdddddd:
+      return true
+    default:
+      return false
+  }
+}
+
+const img = document.createElement("img")
+img.src = "screenshot.png"
+screenshot.appendChild(img)
+let minY = 0
+img.onload = () => {
+  const canvas = document.createElement("canvas")
+  const w = (canvas.width = img.width)
+  const h = (canvas.height = img.height)
+  ctx = canvas.getContext("2d")
+  ctx.drawImage(img, 0, 0)
+  const imageData = ctx.getImageData(0, 0, w, h)
+  // Manipulate the pixel data as 32-bit integers, it's easier and probably faster.
+  const pixels = new Uint32Array(imageData.data.buffer)
+
+  // Find the first row with a non-grey pixel.
+  for (let index = 0; index < pixels.length; index++) {
+    // Ignore the alpha channel.
+    const rgb = pixels[index] & 0x00ffffff
+
+    // Stop at the first non-grey pixel.
+    if (!isGrey(rgb)) {
+      minY = Math.floor(index / w)
+
+      const x = index % w
+      console.log('row search stopped at', x, minY, rgb.toString(16))
+      break
+    }
+  }
+
+  // Now find the first non-empty column.
+  let minX = 0
+  for (let x = 0; x < w; x++) {
+    for (let y = minY; y < h; y++) {
+      const index = y * w + x
+      const rgb = pixels[index] & 0x00ffffff
+
+      if (!isGrey(rgb)) {
+        console.log('col search stopped at', x, y, rgb.toString(16))
+
+        minX = index % w
+        break
+      }
+    }
+    if (minX > 0) break
+  }
+
+  console.log('col', minX, 'row', minY)
+  img.style.marginLeft = `-${minX}px`
+  img.style.marginTop = `-${minY + offsetY}px`
+}
+
+let offsetY = 0
+let lastY = null
+img.addEventListener("mousedown", e => {
+  e.preventDefault()
+})
+img.addEventListener("mousemove", e => {
+  if (e.buttons !== 1) {
+    // This is not safe but I don't care
+    lastY = null
+    return
+  }
+  if (lastY != null) {
+    offsetY += lastY - e.clientY
+    img.style.marginTop = `-${minY + offsetY}px`
+    console.log(offsetY)
+  }
+  lastY = e.clientY
+})
 
 </script>
-

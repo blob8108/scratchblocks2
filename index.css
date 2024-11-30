@@ -193,7 +193,7 @@ button:active, button.pressed, .button:active, .button.pressed {
   margin-bottom: 20px;
 }
 
-#preview {
+#preview-wrapper {
   position: relative;
 }
 
@@ -222,7 +222,7 @@ button:active, button.pressed, .button:active, .button.pressed {
     margin-left: 2rem;
   }
 
-  #preview, #side {
+  #preview-wrapper, #side {
     position: absolute;
     bottom: 2em; left: 2em; right: 2em;
   }
@@ -240,7 +240,7 @@ button:active, button.pressed, .button:active, .button.pressed {
     padding-left: 2em;
   }
 
-  #preview {
+  #preview-wrapper {
     top: 8em;
     right: 55%;
   }

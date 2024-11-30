@@ -27,3 +27,8 @@ For **pull requests**:
 
 To modify the homepage, send a PR to the [scratchblocks/scratchblocks.github.io](https://github.com/scratchblocks/scratchblocks.github.io) repo.
 
+---
+
+When **running locally**:
+
+You can optionally put a file `screenshot.png` in the root of the repository. This will be overlaid against the output from Scratchblocks, to spot differences in layout and pixel alignment. Click and drag with the mouse to fine-tune the alignment vertically. Hold modifier keys like Ctrl, Shift, or Alt to adjust the transparency of the overlay.
