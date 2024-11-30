@@ -552,8 +552,10 @@ class BlockView {
       innerWidth,
     )
 
-    // Center the label text inside small reporters.
-    if (this.isReporter) {
+    // Center the label text inside reporters with short names.
+    //
+    // Scratch doesn't do this for lists for some reason??
+    if (this.isReporter && this.info.category !== "list") {
       padLeft += (innerWidth - originalInnerWidth) / 2
     }
 
