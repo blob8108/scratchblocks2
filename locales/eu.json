@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ezkutatu",
     "LOOKS_SWITCHCOSTUMETO": "aldatu tankera %1 ra",
     "LOOKS_NEXTCOSTUME": "hurrengo tankera",
-    "LOOKS_NEXTBACKDROP_BLOCK": "hurrengo atzeko oihala",
+    "LOOKS_NEXTBACKDROP": "hurrengo atzeko oihala",
     "LOOKS_SWITCHBACKDROPTO": "aldatu atzeko oihala %1 ra",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "aldatu atzeko oihala %1 ra eta itxaron",
     "LOOKS_CHANGEEFFECTBY": "aldatu %1 efektua %2 unitate",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "aldatu %2 -ko %1 elementua %3 -rekin",
     "DATA_SHOWLIST": "erakutsi %1 zerrenda",
     "DATA_HIDELIST": "ezkutatu %1 zerrenda",
-    "SENSING_OF_XPOSITION": "x kokapena",
-    "SENSING_OF_YPOSITION": "y kokapena",
-    "SENSING_OF_DIRECTION": "norabidea",
+    "MOTION_XPOSITION": "x kokapena",
+    "MOTION_YPOSITION": "y kokapena",
+    "MOTION_DIRECTION": "norabidea",
     "SENSING_OF_COSTUMENUMBER": "# tankera",
     "LOOKS_COSTUMENUMBERNAME": "%1 tankera",
-    "SENSING_OF_SIZE": "tamaina",
+    "LOOKS_SIZE": "tamaina",
     "SENSING_OF_BACKDROPNAME": "atzeko oihalaren izena",
     "LOOKS_BACKDROPNUMBERNAME": "%1 atzeko oihala",
     "SENSING_OF_BACKDROPNUMBER": "# atzeko oihala",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Euskara",
-  "percentTranslated": 100
+  "name": "Euskara"
 }

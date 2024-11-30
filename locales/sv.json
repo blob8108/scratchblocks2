@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "göm",
     "LOOKS_SWITCHCOSTUMETO": "ändra klädsel till %1",
     "LOOKS_NEXTCOSTUME": "nästa klädsel",
-    "LOOKS_NEXTBACKDROP_BLOCK": "nästa bakgrund",
+    "LOOKS_NEXTBACKDROP": "nästa bakgrund",
     "LOOKS_SWITCHBACKDROPTO": "växla bakgrund till %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "byt bakgrund till %1 och vänta",
     "LOOKS_CHANGEEFFECTBY": "ändra %1 effekten med %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ersätt posten %1 i %2 med %3",
     "DATA_SHOWLIST": "visa listan %1",
     "DATA_HIDELIST": "göm listan %1",
-    "SENSING_OF_XPOSITION": "x position",
-    "SENSING_OF_YPOSITION": "y position",
-    "SENSING_OF_DIRECTION": "riktning",
+    "MOTION_XPOSITION": "x position",
+    "MOTION_YPOSITION": "y position",
+    "MOTION_DIRECTION": "riktning",
     "SENSING_OF_COSTUMENUMBER": "klädselnummer",
     "LOOKS_COSTUMENUMBERNAME": "klädsel %1",
-    "SENSING_OF_SIZE": "storlek",
+    "LOOKS_SIZE": "storlek",
     "SENSING_OF_BACKDROPNAME": "bakgrundsnamn",
     "LOOKS_BACKDROPNUMBERNAME": "bakgrund %1",
     "SENSING_OF_BACKDROPNUMBER": "bakgrundsnummer",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Svenska",
-  "percentTranslated": 100
+  "name": "Svenska"
 }

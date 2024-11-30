@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "kache",
     "LOOKS_SWITCHCOSTUMETO": "chanje a kostim %1",
     "LOOKS_NEXTCOSTUME": "pwochenn kostim",
-    "LOOKS_NEXTBACKDROP_BLOCK": "pwochenn fon",
+    "LOOKS_NEXTBACKDROP": "pwochenn fon",
     "LOOKS_SWITCHBACKDROPTO": "chanje fon an a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "chanje fon a %1 epi tann",
     "LOOKS_CHANGEEFFECTBY": "chanje efè %1 pa %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ranplase %1 nan %2 avèk %3",
     "DATA_SHOWLIST": "montre lis %1",
     "DATA_HIDELIST": "kache lis %1",
-    "SENSING_OF_XPOSITION": "pozisyon x",
-    "SENSING_OF_YPOSITION": "pozisyon y",
-    "SENSING_OF_DIRECTION": "direksyon",
+    "MOTION_XPOSITION": "pozisyon x",
+    "MOTION_YPOSITION": "pozisyon y",
+    "MOTION_DIRECTION": "direksyon",
     "SENSING_OF_COSTUMENUMBER": "kostim #",
     "LOOKS_COSTUMENUMBERNAME": "kostim %1",
-    "SENSING_OF_SIZE": "gwosè",
+    "LOOKS_SIZE": "gwosè",
     "SENSING_OF_BACKDROPNAME": "non fon an",
     "LOOKS_BACKDROPNUMBERNAME": "fon %1",
     "SENSING_OF_BACKDROPNUMBER": "# fon",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Kreyòl ayisyen",
-  "percentTranslated": 100
+  "name": "Kreyòl ayisyen"
 }

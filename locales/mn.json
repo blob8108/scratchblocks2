@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "нуугд",
     "LOOKS_SWITCHCOSTUMETO": "өмсгөлийг %1 болгож соль",
     "LOOKS_NEXTCOSTUME": "дараах өмсгөл",
-    "LOOKS_NEXTBACKDROP_BLOCK": "дараах дэвсгэр",
+    "LOOKS_NEXTBACKDROP": "дараах дэвсгэр",
     "LOOKS_SWITCHBACKDROPTO": "Дэвсгэрийг %1 болгож өөрчил",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "Дэвсгэр %1 -рүү шилжээд хүлээ",
     "LOOKS_CHANGEEFFECTBY": "%1 нөлөөг %2 нэгжээр өөрчил",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2-н %1-г %3 болгож өөрчил",
     "DATA_SHOWLIST": "%1 жагсаалтыг харуул",
     "DATA_HIDELIST": "%1 жагсаалтыг нуу",
-    "SENSING_OF_XPOSITION": "x - н утга",
-    "SENSING_OF_YPOSITION": "y - н утга",
-    "SENSING_OF_DIRECTION": "чиглэл",
+    "MOTION_XPOSITION": "x - н утга",
+    "MOTION_YPOSITION": "y - н утга",
+    "MOTION_DIRECTION": "чиглэл",
     "SENSING_OF_COSTUMENUMBER": "өмсгөл #",
     "LOOKS_COSTUMENUMBERNAME": "Өмсгөл %1",
-    "SENSING_OF_SIZE": "хэмжээ",
+    "LOOKS_SIZE": "хэмжээ",
     "SENSING_OF_BACKDROPNAME": "дэвсгэрийн нэр",
     "LOOKS_BACKDROPNUMBERNAME": "Дэвсгэр %1",
     "SENSING_OF_BACKDROPNUMBER": "# дэвсгэр",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Монгол хэл",
-  "percentTranslated": 100
+  "name": "Монгол хэл"
 }

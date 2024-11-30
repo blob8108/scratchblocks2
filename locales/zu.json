@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "fihla",
     "LOOKS_SWITCHCOSTUMETO": "shintsha impahla iyeku %1",
     "LOOKS_NEXTCOSTUME": "impahla elandelayo",
-    "LOOKS_NEXTBACKDROP_BLOCK": "okwasemuva okulandelayo",
+    "LOOKS_NEXTBACKDROP": "okwasemuva okulandelayo",
     "LOOKS_SWITCHBACKDROPTO": "shintsha okwasemuva ukuyise kwi %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "shintsha okwasemuva ukuse ku %1 besulinda",
     "LOOKS_CHANGEEFFECTBY": "shintsha  umphumela ongu %1 ngo  %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "faka okunye esikhundleni %1 ku %2 ngo %3",
     "DATA_SHOWLIST": "khombisa uhlu %1",
     "DATA_HIDELIST": "fihla uluhlu le %1",
-    "SENSING_OF_XPOSITION": "indawo ka-x",
-    "SENSING_OF_YPOSITION": "Indawo ka-y",
-    "SENSING_OF_DIRECTION": "indlela",
+    "MOTION_XPOSITION": "indawo ka- x",
+    "MOTION_YPOSITION": "indawo ka-y",
+    "MOTION_DIRECTION": "indlela",
     "SENSING_OF_COSTUMENUMBER": "impahla #",
     "LOOKS_COSTUMENUMBERNAME": "impahla %1",
-    "SENSING_OF_SIZE": "ubukhulu",
+    "LOOKS_SIZE": "Isisindo / Ubukhulu",
     "SENSING_OF_BACKDROPNAME": "igama lokwasemuva",
     "LOOKS_BACKDROPNUMBERNAME": "okwasemuva %1",
     "SENSING_OF_BACKDROPNUMBER": "okwasemuva #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "isiZulu",
-  "percentTranslated": 100
+  "name": "isiZulu"
 }

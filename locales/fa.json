@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "پنهان شو",
     "LOOKS_SWITCHCOSTUMETO": "تغییر حالت به %1",
     "LOOKS_NEXTCOSTUME": "حالت بعدی",
-    "LOOKS_NEXTBACKDROP_BLOCK": "پس‌زمینه‌ی بعدی",
+    "LOOKS_NEXTBACKDROP": "پس‌زمینه‌ی بعدی",
     "LOOKS_SWITCHBACKDROPTO": "تغییر پس‌زمینه به %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "تغییر پس‌زمینه به %1 و منتظر بمان",
     "LOOKS_CHANGEEFFECTBY": "تغییر جلوه‌ی %1 به اندازه %2 تا",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "جایگزینی ردیف %1 %2 با %3",
     "DATA_SHOWLIST": "لیست %1 را نمایش بده",
     "DATA_HIDELIST": "لیست %1 را پنهان کن",
-    "SENSING_OF_XPOSITION": "مکان x",
-    "SENSING_OF_YPOSITION": "مکان y",
-    "SENSING_OF_DIRECTION": "جهت",
+    "MOTION_XPOSITION": "مکان x",
+    "MOTION_YPOSITION": "مکان y",
+    "MOTION_DIRECTION": "جهت",
     "SENSING_OF_COSTUMENUMBER": "# حالت",
     "LOOKS_COSTUMENUMBERNAME": "%1 حالت",
-    "SENSING_OF_SIZE": "اندازه‌ی",
+    "LOOKS_SIZE": "اندازه",
     "SENSING_OF_BACKDROPNAME": "نام پس‌زمینه‌ی",
     "LOOKS_BACKDROPNUMBERNAME": "%1 پس‌زمینه‌",
     "SENSING_OF_BACKDROPNUMBER": "# پس‌زمینه‌ی",
@@ -261,6 +261,5 @@
     "وقتی که پرچم کلیک شد": "EVENT_WHENFLAGCLICKED",
     "آخر": "scratchblocks:end"
   },
-  "name": "فارسی",
-  "percentTranslated": 100
+  "name": "فارسی"
 }

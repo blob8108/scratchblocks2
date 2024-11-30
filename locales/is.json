@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "fela",
     "LOOKS_SWITCHCOSTUMETO": "breyttu í búning %1",
     "LOOKS_NEXTCOSTUME": "næsti búningur",
-    "LOOKS_NEXTBACKDROP_BLOCK": "næsti bakgrunnur",
+    "LOOKS_NEXTBACKDROP": "næsti bakgrunnur",
     "LOOKS_SWITCHBACKDROPTO": "bakgrunnur verður %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "nota bakgrunn %1 og bíða",
     "LOOKS_CHANGEEFFECTBY": "breyta %1 áhrifunum um %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "skiptu út hlut %1 af %2 fyrir %3",
     "DATA_SHOWLIST": "sýndu lista %1",
     "DATA_HIDELIST": "feldu lista %1",
-    "SENSING_OF_XPOSITION": "x hnit",
-    "SENSING_OF_YPOSITION": "y hnit",
-    "SENSING_OF_DIRECTION": "stefna",
+    "MOTION_XPOSITION": "x hnit",
+    "MOTION_YPOSITION": "y hnit",
+    "MOTION_DIRECTION": "stefna",
     "SENSING_OF_COSTUMENUMBER": "búnungur númer",
     "LOOKS_COSTUMENUMBERNAME": "búningur %1",
-    "SENSING_OF_SIZE": "stærð",
+    "LOOKS_SIZE": "stærð",
     "SENSING_OF_BACKDROPNAME": "nafn bakgrunns",
     "LOOKS_BACKDROPNUMBERNAME": "bakgrunnur %1",
     "SENSING_OF_BACKDROPNUMBER": "bakgrunnur númer",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Íslenska",
-  "percentTranslated": 100
+  "name": "Íslenska"
 }

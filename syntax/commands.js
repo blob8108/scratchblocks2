@@ -175,7 +175,7 @@ export default [
     category: "looks",
   },
   {
-    id: "LOOKS_NEXTBACKDROP_BLOCK",
+    id: "LOOKS_NEXTBACKDROP",
     selector: "nextScene",
     spec: "next backdrop",
     inputs: [],
@@ -375,8 +375,8 @@ export default [
     category: "sound",
   },
   {
+    // The Scratch 3 version of this block omits the word "bpm".
     id: "music.setTempo",
-    selector: "setTempoTo:",
     spec: "set tempo to %1",
     inputs: ["%n"],
     shape: "stack",
@@ -773,7 +773,7 @@ export default [
     category: "list",
   },
   {
-    id: "SENSING_OF_XPOSITION",
+    id: "MOTION_XPOSITION",
     selector: "xpos",
     spec: "x position",
     inputs: [],
@@ -781,7 +781,7 @@ export default [
     category: "motion",
   },
   {
-    id: "SENSING_OF_YPOSITION",
+    id: "MOTION_YPOSITION",
     selector: "ypos",
     spec: "y position",
     inputs: [],
@@ -789,7 +789,7 @@ export default [
     category: "motion",
   },
   {
-    id: "SENSING_OF_DIRECTION",
+    id: "MOTION_DIRECTION",
     selector: "heading",
     spec: "direction",
     inputs: [],
@@ -797,6 +797,8 @@ export default [
     category: "motion",
   },
   {
+    // This reporter block no longer exists in Scratch 3; so instead we cheat
+    // and use the menu option from the "_ of _" block.
     id: "SENSING_OF_COSTUMENUMBER",
     selector: "costumeIndex",
     spec: "costume #",
@@ -805,15 +807,15 @@ export default [
     category: "looks",
   },
   {
+    // New for Scratch 3.
     id: "LOOKS_COSTUMENUMBERNAME",
-    selector: "LOOKS_COSTUMENUMBERNAME",
     spec: "costume %1",
     inputs: ["%m"],
     shape: "reporter",
     category: "looks",
   },
   {
-    id: "SENSING_OF_SIZE",
+    id: "LOOKS_SIZE",
     selector: "scale",
     spec: "size",
     inputs: [],
@@ -821,6 +823,8 @@ export default [
     category: "looks",
   },
   {
+    // This reporter block no longer exists in Scratch 3; so instead we cheat
+    // and use the menu option from the "_ of _" block.
     id: "SENSING_OF_BACKDROPNAME",
     selector: "sceneName",
     spec: "backdrop name",
@@ -829,6 +833,7 @@ export default [
     category: "looks",
   },
   {
+    // New for Scratch 3.
     id: "LOOKS_BACKDROPNUMBERNAME",
     spec: "backdrop %1",
     inputs: ["%m"],
@@ -836,6 +841,8 @@ export default [
     category: "looks",
   },
   {
+    // This reporter block no longer exists in Scratch 3; so instead we cheat
+    // and use the menu option from the "_ of _" block.
     id: "SENSING_OF_BACKDROPNUMBER",
     selector: "backgroundIndex",
     spec: "backdrop #",

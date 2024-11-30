@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "skrij",
     "LOOKS_SWITCHCOSTUMETO": "spremeni videz v %1",
     "LOOKS_NEXTCOSTUME": "naslednji videz",
-    "LOOKS_NEXTBACKDROP_BLOCK": "naslednje ozadje",
+    "LOOKS_NEXTBACKDROP": "naslednje ozadje",
     "LOOKS_SWITCHBACKDROPTO": "zamenjaj ozadje na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "zamenjaj ozadje na %1 in počakaj",
     "LOOKS_CHANGEEFFECTBY": "spremeni učinek %1 za %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "zamenjaj %1 v %2 z %3",
     "DATA_SHOWLIST": "pokaži seznam %1",
     "DATA_HIDELIST": "skrij seznam %1",
-    "SENSING_OF_XPOSITION": "položaj x",
-    "SENSING_OF_YPOSITION": "položaj y",
-    "SENSING_OF_DIRECTION": "smer",
+    "MOTION_XPOSITION": "položaj x",
+    "MOTION_YPOSITION": "položaj y",
+    "MOTION_DIRECTION": "smer",
     "SENSING_OF_COSTUMENUMBER": "videz #",
     "LOOKS_COSTUMENUMBERNAME": "videz %1",
-    "SENSING_OF_SIZE": "velikost",
+    "LOOKS_SIZE": "velikost",
     "SENSING_OF_BACKDROPNAME": "ime ozadja",
     "LOOKS_BACKDROPNUMBERNAME": "ozadje %1",
     "SENSING_OF_BACKDROPNUMBER": "ozadje #",
@@ -261,6 +261,5 @@
     "ko je kliknjena zelena zastavica": "EVENT_WHENFLAGCLICKED",
     "ustavi": "scratchblocks:end"
   },
-  "name": "Slovenščina",
-  "percentTranslated": 100
+  "name": "Slovenščina"
 }

@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "sakrij",
     "LOOKS_SWITCHCOSTUMETO": "promijeni kostim u %1",
     "LOOKS_NEXTCOSTUME": "sljedeći kostim",
-    "LOOKS_NEXTBACKDROP_BLOCK": "sljedeća pozadina",
+    "LOOKS_NEXTBACKDROP": "sljedeća pozadina",
     "LOOKS_SWITCHBACKDROPTO": "promijeni pozadinu na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "promijeni pozadinu u %1 i čekaj",
     "LOOKS_CHANGEEFFECTBY": "promijeni efekt %1 za %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "zamijeni %1 na %2 s %3",
     "DATA_SHOWLIST": "prikaži listu %1",
     "DATA_HIDELIST": "sakrij listu %1",
-    "SENSING_OF_XPOSITION": "x položaj",
-    "SENSING_OF_YPOSITION": "y položaj",
-    "SENSING_OF_DIRECTION": "smjer",
+    "MOTION_XPOSITION": "x položaj",
+    "MOTION_YPOSITION": "y položaj",
+    "MOTION_DIRECTION": "smjer",
     "SENSING_OF_COSTUMENUMBER": "kostim #",
     "LOOKS_COSTUMENUMBERNAME": "kostim %1",
-    "SENSING_OF_SIZE": "veličina",
+    "LOOKS_SIZE": "veličina",
     "SENSING_OF_BACKDROPNAME": "naziv pozadine",
     "LOOKS_BACKDROPNUMBERNAME": "pozadina %1",
     "SENSING_OF_BACKDROPNUMBER": "pozadina #",
@@ -261,6 +261,5 @@
     "kada je zelena zastava kliknut": "EVENT_WHENFLAGCLICKED",
     "kraj": "scratchblocks:end"
   },
-  "name": "Hrvatski",
-  "percentTranslated": 100
+  "name": "Hrvatski"
 }

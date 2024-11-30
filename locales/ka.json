@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "დაიმალე",
     "LOOKS_SWITCHCOSTUMETO": "გადაერთე კოსტიუმზე %1",
     "LOOKS_NEXTCOSTUME": "მომდევნო კოსტიუმი",
-    "LOOKS_NEXTBACKDROP_BLOCK": "მომდევნო ფონი",
+    "LOOKS_NEXTBACKDROP": "მომდევნო ფონი",
     "LOOKS_SWITCHBACKDROPTO": "გადაერთე ფონზე %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "გადაერთე ფონზე %1 და იცადე",
     "LOOKS_CHANGEEFFECTBY": "შეცვალე%1ეფექტი%2ით",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "შეცვალე %1 %2დან %3ით",
     "DATA_SHOWLIST": "გამოაჩინე სია %1",
     "DATA_HIDELIST": "დამალე სია %1",
-    "SENSING_OF_XPOSITION": "x მდებარეობა",
-    "SENSING_OF_YPOSITION": "y მდებარეობა",
-    "SENSING_OF_DIRECTION": "მიმართულება",
+    "MOTION_XPOSITION": "x მდებარეობა",
+    "MOTION_YPOSITION": "y მდებარეობა",
+    "MOTION_DIRECTION": "მიმართულება",
     "SENSING_OF_COSTUMENUMBER": "კოსტიუმის ნომერი",
     "LOOKS_COSTUMENUMBERNAME": "კოსტიუმი %1",
-    "SENSING_OF_SIZE": "ზომა",
+    "LOOKS_SIZE": "ზომა",
     "SENSING_OF_BACKDROPNAME": "ფონის სახელი",
     "LOOKS_BACKDROPNUMBERNAME": "ფონი %1",
     "SENSING_OF_BACKDROPNUMBER": "ფონის ნომერი",
@@ -256,6 +256,5 @@
     "10^"
   ],
   "aliases": {},
-  "name": "ქართული ენა",
-  "percentTranslated": 100
+  "name": "ქართული ენა"
 }

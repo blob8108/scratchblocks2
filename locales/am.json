@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ደብቅ",
     "LOOKS_SWITCHCOSTUMETO": "ልብስ ወደ %1 ለውጥ",
     "LOOKS_NEXTCOSTUME": "ቀጣይ አልባስ",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ቀጣይ የጀርባ ምስል",
+    "LOOKS_NEXTBACKDROP": "ቀጣይ የጀርባ ምስል",
     "LOOKS_SWITCHBACKDROPTO": "የጀርባ ምስል ወደ %1 ለውጥ",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "የጀርባ ምስል ወደ %1 ለውጥና ጠብቅ",
     "LOOKS_CHANGEEFFECTBY": "%1ን ተጽኖ በ%2 ለውጥ",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%1 ከ%2 ቀይር ወደ %3",
     "DATA_SHOWLIST": "%1ን ዝርዝር አሳይ",
     "DATA_HIDELIST": "%1ን ዝርዝር ደብቅ",
-    "SENSING_OF_XPOSITION": "x ቦታ",
-    "SENSING_OF_YPOSITION": "y ቦታ",
-    "SENSING_OF_DIRECTION": "አቅጣጫ",
+    "MOTION_XPOSITION": "x ቦታ",
+    "MOTION_YPOSITION": "y ቦታ",
+    "MOTION_DIRECTION": "አቅጣጫ",
     "SENSING_OF_COSTUMENUMBER": "ልብስ ቁጥር",
     "LOOKS_COSTUMENUMBERNAME": "ልብስ %1",
-    "SENSING_OF_SIZE": "መጠን",
+    "LOOKS_SIZE": "መጠን",
     "SENSING_OF_BACKDROPNAME": "የጀርባ ምስል ስም",
     "LOOKS_BACKDROPNUMBERNAME": "የጀርባ ምስል %1",
     "SENSING_OF_BACKDROPNUMBER": "የጀርባ ምስል #",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "አማርኛ",
-  "percentTranslated": 100
+  "name": "አማርኛ"
 }

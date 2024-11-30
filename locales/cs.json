@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "skryj se",
     "LOOKS_SWITCHCOSTUMETO": "změň kostým na %1",
     "LOOKS_NEXTCOSTUME": "další kostým",
-    "LOOKS_NEXTBACKDROP_BLOCK": "další pozadí",
+    "LOOKS_NEXTBACKDROP": "další pozadí",
     "LOOKS_SWITCHBACKDROPTO": "přepni pozadí na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "změň pozadí na %1",
     "LOOKS_CHANGEEFFECTBY": "změň efekt %1 o %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "nahraď %1 v %2 hodnotou %3",
     "DATA_SHOWLIST": "ukaž seznam %1",
     "DATA_HIDELIST": "skryj seznam %1",
-    "SENSING_OF_XPOSITION": "x",
-    "SENSING_OF_YPOSITION": "y",
-    "SENSING_OF_DIRECTION": "směr",
+    "MOTION_XPOSITION": "x",
+    "MOTION_YPOSITION": "y",
+    "MOTION_DIRECTION": "směr",
     "SENSING_OF_COSTUMENUMBER": "číslo kostýmu",
     "LOOKS_COSTUMENUMBERNAME": "kostým %1",
-    "SENSING_OF_SIZE": "velikost",
+    "LOOKS_SIZE": "velikost",
     "SENSING_OF_BACKDROPNAME": "název pozadí",
     "LOOKS_BACKDROPNUMBERNAME": "pozadí %1",
     "SENSING_OF_BACKDROPNUMBER": "číslo pozadí",
@@ -262,6 +262,5 @@
     "po kliknutí na zelenou vlajku": "EVENT_WHENFLAGCLICKED",
     "konec": "scratchblocks:end"
   },
-  "name": "Česky",
-  "percentTranslated": 100
+  "name": "Česky"
 }

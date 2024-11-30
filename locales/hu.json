@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "tűnj el",
     "LOOKS_SWITCHCOSTUMETO": "jelmez legyen %1",
     "LOOKS_NEXTCOSTUME": "következő jelmez",
-    "LOOKS_NEXTBACKDROP_BLOCK": "következő háttér",
+    "LOOKS_NEXTBACKDROP": "következő háttér",
     "LOOKS_SWITCHBACKDROPTO": "háttér legyen %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "háttér legyen %1 és várj",
     "LOOKS_CHANGEEFFECTBY": "%1 hatás változzon %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "cseréld le %1 elemet %2 listában %3 elemre",
     "DATA_SHOWLIST": "%1 lista jelenjen meg",
     "DATA_HIDELIST": "%1 lista tűnjön el",
-    "SENSING_OF_XPOSITION": "x hely",
-    "SENSING_OF_YPOSITION": "y hely",
-    "SENSING_OF_DIRECTION": "irány",
+    "MOTION_XPOSITION": "x hely",
+    "MOTION_YPOSITION": "y hely",
+    "MOTION_DIRECTION": "irány",
     "SENSING_OF_COSTUMENUMBER": "jelmez sorszáma",
     "LOOKS_COSTUMENUMBERNAME": "jelmez %1",
-    "SENSING_OF_SIZE": "mérete",
+    "LOOKS_SIZE": "méret",
     "SENSING_OF_BACKDROPNAME": "háttér neve",
     "LOOKS_BACKDROPNUMBERNAME": "háttér %1",
     "SENSING_OF_BACKDROPNUMBER": "háttér sorszáma",
@@ -262,6 +262,5 @@
     "a zászlóra kattintáskor": "EVENT_WHENFLAGCLICKED",
     "vége": "scratchblocks:end"
   },
-  "name": "Magyar",
-  "percentTranslated": 100
+  "name": "Magyar"
 }

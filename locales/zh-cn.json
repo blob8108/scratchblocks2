@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "隐藏",
     "LOOKS_SWITCHCOSTUMETO": "换成 %1 造型",
     "LOOKS_NEXTCOSTUME": "下一个造型",
-    "LOOKS_NEXTBACKDROP_BLOCK": "下一个背景",
+    "LOOKS_NEXTBACKDROP": "下一个背景",
     "LOOKS_SWITCHBACKDROPTO": "换成 %1 背景",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "换成 %1 背景并等待",
     "LOOKS_CHANGEEFFECTBY": "将 %1 特效增加 %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "将 %2 的第 %1 项替换为 %3",
     "DATA_SHOWLIST": "显示列表 %1",
     "DATA_HIDELIST": "隐藏列表 %1",
-    "SENSING_OF_XPOSITION": "x 坐标",
-    "SENSING_OF_YPOSITION": "y 坐标",
-    "SENSING_OF_DIRECTION": "方向",
+    "MOTION_XPOSITION": "x 坐标",
+    "MOTION_YPOSITION": "y 坐标",
+    "MOTION_DIRECTION": "方向",
     "SENSING_OF_COSTUMENUMBER": "造型编号",
     "LOOKS_COSTUMENUMBERNAME": "造型 %1",
-    "SENSING_OF_SIZE": "大小",
+    "LOOKS_SIZE": "大小",
     "SENSING_OF_BACKDROPNAME": "背景名称",
     "LOOKS_BACKDROPNUMBERNAME": "背景 %1",
     "SENSING_OF_BACKDROPNUMBER": "背景编号",
@@ -261,6 +261,5 @@
     "点击绿旗时": "EVENT_WHENFLAGCLICKED",
     "结束": "scratchblocks:end"
   },
-  "name": "简体中文",
-  "percentTranslated": 100
+  "name": "简体中文"
 }

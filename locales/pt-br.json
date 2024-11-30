@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "esconda",
     "LOOKS_SWITCHCOSTUMETO": "mude para a fantasia %1",
     "LOOKS_NEXTCOSTUME": "próxima fantasia",
-    "LOOKS_NEXTBACKDROP_BLOCK": "próximo cenário",
+    "LOOKS_NEXTBACKDROP": "próximo cenário",
     "LOOKS_SWITCHBACKDROPTO": "mude para o cenário %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "mude para o cenário %1 e espere",
     "LOOKS_CHANGEEFFECTBY": "mude %2 ao efeito %1",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "substitua o item %1 de %2 por %3",
     "DATA_SHOWLIST": "mostre a lista %1",
     "DATA_HIDELIST": "esconda a lista %1",
-    "SENSING_OF_XPOSITION": "posição x",
-    "SENSING_OF_YPOSITION": "posição y",
-    "SENSING_OF_DIRECTION": "direção",
+    "MOTION_XPOSITION": "posição x",
+    "MOTION_YPOSITION": "posição y",
+    "MOTION_DIRECTION": "direção",
     "SENSING_OF_COSTUMENUMBER": "n° da fantasia",
     "LOOKS_COSTUMENUMBERNAME": "fantasia %1",
-    "SENSING_OF_SIZE": "tamanho",
+    "LOOKS_SIZE": "tamanho",
     "SENSING_OF_BACKDROPNAME": "nome do cenário",
     "LOOKS_BACKDROPNUMBERNAME": "cenário %1",
     "SENSING_OF_BACKDROPNUMBER": "n° do cenário",
@@ -256,6 +256,5 @@
     "10 elevado à"
   ],
   "aliases": {},
-  "name": "Português Brasileiro",
-  "percentTranslated": 100
+  "name": "Português Brasileiro"
 }

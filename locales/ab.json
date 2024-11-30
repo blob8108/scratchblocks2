@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "аҽыҵәахра",
     "LOOKS_SWITCHCOSTUMETO": "иԥсахтәуп акостиум %1 ала",
     "LOOKS_NEXTCOSTUME": "анаҩстәи акостиум",
-    "LOOKS_NEXTBACKDROP_BLOCK": "анаҩстәи аҿаԥшыра",
+    "LOOKS_NEXTBACKDROP": "анаҩстәи аҿаԥшыра",
     "LOOKS_SWITCHBACKDROPTO": "иԥсахтәуп аҿаԥшыра %1 ала",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "иԥсахтәуп аҿаԥшыра %1 ала  нас иԥштәуп",
     "LOOKS_CHANGEEFFECTBY": "иԥсахтәуп аеффект %1  %2 ала",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 аҟны иԥсахтәуп аелемент %1 %3 ала",
     "DATA_SHOWLIST": "иаарԥштәуп асиа %1",
     "DATA_HIDELIST": "иҵәахтәуп асиа %1",
-    "SENSING_OF_XPOSITION": "x аҭыԥ",
-    "SENSING_OF_YPOSITION": "y аҭыԥ",
-    "SENSING_OF_DIRECTION": "ахырхарҭа",
+    "MOTION_XPOSITION": "x апозициа",
+    "MOTION_YPOSITION": "y апозициа",
+    "MOTION_DIRECTION": "ахырхарҭа",
     "SENSING_OF_COSTUMENUMBER": "акостиум №",
     "LOOKS_COSTUMENUMBERNAME": "акостиум %1",
-    "SENSING_OF_SIZE": "ашәагаа",
+    "LOOKS_SIZE": "ашәагаа",
     "SENSING_OF_BACKDROPNAME": "аҿаԥшыра ахьӡ",
     "LOOKS_BACKDROPNUMBERNAME": "аҿаԥшыра %1",
     "SENSING_OF_BACKDROPNUMBER": "аҿаԥшыра №",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Аҧсшәа",
-  "percentTranslated": 100
+  "name": "Аҧсшәа"
 }

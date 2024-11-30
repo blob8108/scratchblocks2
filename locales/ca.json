@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "amaga't",
     "LOOKS_SWITCHCOSTUMETO": "canvia el vestit a %1",
     "LOOKS_NEXTCOSTUME": "següent vestit",
-    "LOOKS_NEXTBACKDROP_BLOCK": "següent fons de pantalla",
+    "LOOKS_NEXTBACKDROP": "següent fons de pantalla",
     "LOOKS_SWITCHBACKDROPTO": "canvia el fons a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "canvia el fons a %1 i espera",
     "LOOKS_CHANGEEFFECTBY": "augmenta l'efecte %1 en %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "canvia l'element %1 de %2 per %3",
     "DATA_SHOWLIST": "mostra la llista %1",
     "DATA_HIDELIST": "amaga la llista %1",
-    "SENSING_OF_XPOSITION": "posició x",
-    "SENSING_OF_YPOSITION": "posició y",
-    "SENSING_OF_DIRECTION": "direcció",
+    "MOTION_XPOSITION": "posició x",
+    "MOTION_YPOSITION": "posició y",
+    "MOTION_DIRECTION": "direcció",
     "SENSING_OF_COSTUMENUMBER": "vestit nr",
     "LOOKS_COSTUMENUMBERNAME": "vestit %1",
-    "SENSING_OF_SIZE": "mida",
+    "LOOKS_SIZE": "mida",
     "SENSING_OF_BACKDROPNAME": "nom del fons",
     "LOOKS_BACKDROPNUMBERNAME": "fons %1",
     "SENSING_OF_BACKDROPNUMBER": "fons nr",
@@ -262,6 +262,5 @@
     "quan la bandera verda es premi": "EVENT_WHENFLAGCLICKED",
     "fi": "scratchblocks:end"
   },
-  "name": "Català",
-  "percentTranslated": 100
+  "name": "Català"
 }

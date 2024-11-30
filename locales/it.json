@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "nascondi",
     "LOOKS_SWITCHCOSTUMETO": "passa al costume %1",
     "LOOKS_NEXTCOSTUME": "passa al costume seguente",
-    "LOOKS_NEXTBACKDROP_BLOCK": "passa allo sfondo seguente",
+    "LOOKS_NEXTBACKDROP": "seguente",
     "LOOKS_SWITCHBACKDROPTO": "passa allo sfondo %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "passa allo sfondo %1 e attendi",
     "LOOKS_CHANGEEFFECTBY": "cambia effetto %1 di %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "sostituisci elemento %1 di %2 con %3",
     "DATA_SHOWLIST": "mostra la lista %1",
     "DATA_HIDELIST": "nascondi la lista %1",
-    "SENSING_OF_XPOSITION": "posizione x",
-    "SENSING_OF_YPOSITION": "posizione y",
-    "SENSING_OF_DIRECTION": "direzione",
+    "MOTION_XPOSITION": "posizione x",
+    "MOTION_YPOSITION": "posizione y",
+    "MOTION_DIRECTION": "direzione",
     "SENSING_OF_COSTUMENUMBER": "numero del costume",
     "LOOKS_COSTUMENUMBERNAME": "%1 costume",
-    "SENSING_OF_SIZE": "dimensione",
+    "LOOKS_SIZE": "dimensione",
     "SENSING_OF_BACKDROPNAME": "nome dello sfondo",
     "LOOKS_BACKDROPNUMBERNAME": "%1 sfondo",
     "SENSING_OF_BACKDROPNUMBER": "numero dello sfondo",
@@ -261,6 +261,5 @@
     "quando si clicca sulla bandiera verde": "EVENT_WHENFLAGCLICKED",
     "fine": "scratchblocks:end"
   },
-  "name": "Italiano",
-  "percentTranslated": 100
+  "name": "Italiano"
 }

@@ -86,7 +86,7 @@ const translateKey = (raw, key) => {
     throw new Error(`Unknown key: '${key}'`)
   }
   if (!result) {
-    return
+    return null
   }
   //if (result === englishResult) return
   return fixup(key, result, englishResult)
@@ -149,6 +149,7 @@ const buildLocale = (code, rawLocale) => {
     name: localeNames[code].name,
   }
 
+  let translatableCount = 0
   for (const command of scratchCommands) {
     if (!command.id) {
       continue
@@ -159,9 +160,16 @@ const buildLocale = (code, rawLocale) => {
     if (/^scratchblocks:/.test(command.id)) {
       continue
     }
+    translatableCount += 1
+
     const result = translateKey(rawLocale, command.id)
-    if (!result) {
+    if (result == null) {
+      // The language is missing the key.
+      console.log("Language", code, "is missing key", command.id)
       continue
+    }
+    if (locale.commands[command.id] != null) {
+      console.log("duplicate translation", command.id)
     }
     locale.commands[command.id] = result
   }
@@ -171,7 +179,7 @@ const buildLocale = (code, rawLocale) => {
     console.log("No blocks:", localeNames[code].name)
     return
   }
-  const frac = commandCount / scratchSpecs.length
+  const frac = commandCount / translatableCount
   console.log(
     `${(code + ":").padEnd(8)} ${(frac * 100).toFixed(1).padStart(5)}%`,
   )
@@ -179,7 +187,7 @@ const buildLocale = (code, rawLocale) => {
   // Approximate fraction of blocks translated. For some reason not all blocks
   // are included; most locales are 93.7% translated according to this script.
   // So we cheat and treat that as 100.
-  locale.percentTranslated = Math.max(100, Math.round((frac / 0.937) * 100))
+  //locale.percentTranslated = Math.max(100, Math.round((frac / 0.937) * 100))
 
   // TODO does this block still exist?
   //const whenDistance = translateKey("when distance < %1")

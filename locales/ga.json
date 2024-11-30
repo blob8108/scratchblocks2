@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "folaigh",
     "LOOKS_SWITCHCOSTUMETO": "athraigh an chulaith go %1",
     "LOOKS_NEXTCOSTUME": "an chéad chulaith eile",
-    "LOOKS_NEXTBACKDROP_BLOCK": "an chéad chúlra eile",
+    "LOOKS_NEXTBACKDROP": "an chéad chúlra eile",
     "LOOKS_SWITCHBACKDROPTO": "athraigh an cúlra go %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "athraigh an cúlra go %1 agus fan",
     "LOOKS_CHANGEEFFECTBY": "athraigh maisíocht %1 de %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "cuir %3 in áit mír %1 i %2",
     "DATA_SHOWLIST": "taispeáin liosta %1",
     "DATA_HIDELIST": "folaigh liosta %1",
-    "SENSING_OF_XPOSITION": "ionad x",
-    "SENSING_OF_YPOSITION": "ionad y",
-    "SENSING_OF_DIRECTION": "treo",
+    "MOTION_XPOSITION": "ionad x",
+    "MOTION_YPOSITION": "ionad y",
+    "MOTION_DIRECTION": "treo",
     "SENSING_OF_COSTUMENUMBER": "culaith #",
     "LOOKS_COSTUMENUMBERNAME": "culaith %1",
-    "SENSING_OF_SIZE": "méid",
+    "LOOKS_SIZE": "méid",
     "SENSING_OF_BACKDROPNAME": "ainm an chúlra",
     "LOOKS_BACKDROPNUMBERNAME": "cúlra %1",
     "SENSING_OF_BACKDROPNUMBER": "cúlra #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Gaeilge",
-  "percentTranslated": 100
+  "name": "Gaeilge"
 }

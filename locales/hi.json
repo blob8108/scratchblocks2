@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "छुपाएँ",
     "LOOKS_SWITCHCOSTUMETO": "%1 से पोशाख बदले",
     "LOOKS_NEXTCOSTUME": "अगली पोशाक",
-    "LOOKS_NEXTBACKDROP_BLOCK": "अगली पृष्ठभूमि",
+    "LOOKS_NEXTBACKDROP": "अगली पृष्ठभूमि",
     "LOOKS_SWITCHBACKDROPTO": "%1 से पृष्ठभूमि बदले",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "पृष्ठभूमि को %1 से बदले और रुके",
     "LOOKS_CHANGEEFFECTBY": "बदले %1 प्रभाव को %2 से",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 की %1 चीज बदले %3 से",
     "DATA_SHOWLIST": "%1 सूचि दिखाएँ",
     "DATA_HIDELIST": "%1 सूचि छुपाए",
-    "SENSING_OF_XPOSITION": "x स्थिति",
-    "SENSING_OF_YPOSITION": "y स्थिति",
-    "SENSING_OF_DIRECTION": "दिशा",
+    "MOTION_XPOSITION": "x स्थिति",
+    "MOTION_YPOSITION": "y स्थिति",
+    "MOTION_DIRECTION": "दिशा",
     "SENSING_OF_COSTUMENUMBER": "पोशाक #",
     "LOOKS_COSTUMENUMBERNAME": "%1 पोषाख",
-    "SENSING_OF_SIZE": "आकार",
+    "LOOKS_SIZE": "आकार",
     "SENSING_OF_BACKDROPNAME": "पृष्ठभूमि का नाम",
     "LOOKS_BACKDROPNUMBERNAME": "%1 पृष्ठभूमि",
     "SENSING_OF_BACKDROPNUMBER": "पृष्ठभूमि#",
@@ -261,6 +261,5 @@
     "जब झंडे को क्लिक किया गया हो": "EVENT_WHENFLAGCLICKED",
     "अंत": "scratchblocks:end"
   },
-  "name": "हिंदी",
-  "percentTranslated": 100
+  "name": "हिंदी"
 }

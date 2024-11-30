@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "agocharse",
     "LOOKS_SWITCHCOSTUMETO": "mudar traxe a %1",
     "LOOKS_NEXTCOSTUME": "traxe seguinte",
-    "LOOKS_NEXTBACKDROP_BLOCK": "fondo seguinte",
+    "LOOKS_NEXTBACKDROP": "fondo seguinte",
     "LOOKS_SWITCHBACKDROPTO": "mudar fondo a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "mudar fondo a %1 e agardar",
     "LOOKS_CHANGEEFFECTBY": "sumar %2 ao efecto %1",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "substituír o elemento %1 de %2 por %3",
     "DATA_SHOWLIST": "amosar a lista %1",
     "DATA_HIDELIST": "agochar a lista %1",
-    "SENSING_OF_XPOSITION": "posición en X",
-    "SENSING_OF_YPOSITION": "posición en Y",
-    "SENSING_OF_DIRECTION": "dirección",
+    "MOTION_XPOSITION": "posición en X",
+    "MOTION_YPOSITION": "posición en Y",
+    "MOTION_DIRECTION": "dirección",
     "SENSING_OF_COSTUMENUMBER": "traxe n.º",
     "LOOKS_COSTUMENUMBERNAME": "traxe %1",
-    "SENSING_OF_SIZE": "tamaño",
+    "LOOKS_SIZE": "tamaño",
     "SENSING_OF_BACKDROPNAME": "nome do fondo",
     "LOOKS_BACKDROPNUMBERNAME": "fondo %1",
     "SENSING_OF_BACKDROPNUMBER": "fondo n.º",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Galego",
-  "percentTranslated": 100
+  "name": "Galego"
 }

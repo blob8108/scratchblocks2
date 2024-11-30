@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "amagar",
     "LOOKS_SWITCHCOSTUMETO": "cambiar vestiu a %1",
     "LOOKS_NEXTCOSTUME": "siguient vestiu",
-    "LOOKS_NEXTBACKDROP_BLOCK": "siguient fondo",
+    "LOOKS_NEXTBACKDROP": "siguient fondo",
     "LOOKS_SWITCHBACKDROPTO": "cambiar fondo a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "cambiar fondo a %1 y aguardar",
     "LOOKS_CHANGEEFFECTBY": "sumar %2 a l'efecto %1",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "reemplazar elemento %1 de %2 con %3",
     "DATA_SHOWLIST": "amostrar la lista %1",
     "DATA_HIDELIST": "amagar la lista %1",
-    "SENSING_OF_XPOSITION": "posición en x",
-    "SENSING_OF_YPOSITION": "posición en y",
-    "SENSING_OF_DIRECTION": "dirección",
+    "MOTION_XPOSITION": "posición en x",
+    "MOTION_YPOSITION": "posición en y",
+    "MOTION_DIRECTION": "dirección",
     "SENSING_OF_COSTUMENUMBER": "# de vestiu",
     "LOOKS_COSTUMENUMBERNAME": "%1 de vestiu",
-    "SENSING_OF_SIZE": "grandaria",
+    "LOOKS_SIZE": "grandaria",
     "SENSING_OF_BACKDROPNAME": "nombre de fondo",
     "LOOKS_BACKDROPNUMBERNAME": "%1 de fondo",
     "SENSING_OF_BACKDROPNUMBER": "# de fondo",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Aragonés",
-  "percentTranslated": 100
+  "name": "Aragonés"
 }

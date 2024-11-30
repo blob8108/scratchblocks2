@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "slēpt",
     "LOOKS_SWITCHCOSTUMETO": "mainīt tērpu uz %1",
     "LOOKS_NEXTCOSTUME": "nākamais tērps",
-    "LOOKS_NEXTBACKDROP_BLOCK": "nākamais fons",
+    "LOOKS_NEXTBACKDROP": "nākamais fons",
     "LOOKS_SWITCHBACKDROPTO": "mainīt fonu uz %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "mainīt fonu uz %1 un gaidīt",
     "LOOKS_CHANGEEFFECTBY": "mainīt efektu %1 par %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "aizvietot %1 vienumu sarakstā %2 ar %3",
     "DATA_SHOWLIST": "rādīt sarakstu %1",
     "DATA_HIDELIST": "slēpt sarakstu %1",
-    "SENSING_OF_XPOSITION": "x pozīcija",
-    "SENSING_OF_YPOSITION": "y pozīcija",
-    "SENSING_OF_DIRECTION": "virziens",
+    "MOTION_XPOSITION": "x pozīcija",
+    "MOTION_YPOSITION": "y pozīcija",
+    "MOTION_DIRECTION": "virziens",
     "SENSING_OF_COSTUMENUMBER": "tērpa #",
     "LOOKS_COSTUMENUMBERNAME": "tērpa %1",
-    "SENSING_OF_SIZE": "izmērs",
+    "LOOKS_SIZE": "izmērs",
     "SENSING_OF_BACKDROPNAME": "fona nosaukums",
     "LOOKS_BACKDROPNUMBERNAME": "fona %1",
     "SENSING_OF_BACKDROPNUMBER": "fona #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Latviešu",
-  "percentTranslated": 100
+  "name": "Latviešu"
 }

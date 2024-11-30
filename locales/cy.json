@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "cuddio",
     "LOOKS_SWITCHCOSTUMETO": "newid gwisg i %1",
     "LOOKS_NEXTCOSTUME": "gwisg nesaf",
-    "LOOKS_NEXTBACKDROP_BLOCK": "cefnlen nesaf",
+    "LOOKS_NEXTBACKDROP": "cefnlen nesaf",
     "LOOKS_SWITCHBACKDROPTO": "newid cefndir i %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "newid cefnlen i %1 ac aros",
     "LOOKS_CHANGEEFFECTBY": "newid effaith %1 gan %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "amnewid eitem %1 o %2 gyda %3",
     "DATA_SHOWLIST": "dangos rhestr %1",
     "DATA_HIDELIST": "cuddio rhestr %1",
-    "SENSING_OF_XPOSITION": "safle x",
-    "SENSING_OF_YPOSITION": "safle y",
-    "SENSING_OF_DIRECTION": "cyfeiriad",
+    "MOTION_XPOSITION": "safle x",
+    "MOTION_YPOSITION": "safle y",
+    "MOTION_DIRECTION": "cyfeiriad",
     "SENSING_OF_COSTUMENUMBER": "gwisg #",
     "LOOKS_COSTUMENUMBERNAME": "gwisg %1",
-    "SENSING_OF_SIZE": "maint",
+    "LOOKS_SIZE": "maint",
     "SENSING_OF_BACKDROPNAME": "enw cefnlen",
     "LOOKS_BACKDROPNUMBERNAME": "cefnlen %1",
     "SENSING_OF_BACKDROPNUMBER": "cefnlen #",
@@ -261,6 +261,5 @@
     "pan fo'r flag werdd yn cael ei glicio": "EVENT_WHENFLAGCLICKED",
     "diwedd": "scratchblocks:end"
   },
-  "name": "Cymraeg",
-  "percentTranslated": 100
+  "name": "Cymraeg"
 }

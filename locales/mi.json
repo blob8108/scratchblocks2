@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "huna",
     "LOOKS_SWITCHCOSTUMETO": "panonitia te kākahu kia %1",
     "LOOKS_NEXTCOSTUME": "kākahu panuku",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ārai tuarongo panuku",
+    "LOOKS_NEXTBACKDROP": "ārai tuarongo panuku",
     "LOOKS_SWITCHBACKDROPTO": "panonitia te ārai tuarongo kia %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "panonitia te ārai tuarongo kia %1, kātahi, tatari",
     "LOOKS_CHANGEEFFECTBY": "panonitia te rākeitanga %1 mā te %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "whakakapia te tūemi %1 o %2, ki %3",
     "DATA_SHOWLIST": "whakaaturia te rārangi %1",
     "DATA_HIDELIST": "hunāia te rārangi %1",
-    "SENSING_OF_XPOSITION": "tūnga x",
-    "SENSING_OF_YPOSITION": "tūnga y",
-    "SENSING_OF_DIRECTION": "ahunga",
+    "MOTION_XPOSITION": "tūnga x",
+    "MOTION_YPOSITION": "tūnga y",
+    "MOTION_DIRECTION": "ahunga",
     "SENSING_OF_COSTUMENUMBER": "kākahu #",
     "LOOKS_COSTUMENUMBERNAME": "kākahu %1",
-    "SENSING_OF_SIZE": "rahi",
+    "LOOKS_SIZE": "rahi",
     "SENSING_OF_BACKDROPNAME": "ingoa ārai tuarongo",
     "LOOKS_BACKDROPNUMBERNAME": "ārai tuarongo %1",
     "SENSING_OF_BACKDROPNUMBER": "ārai tuarongo #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Māori",
-  "percentTranslated": 100
+  "name": "Māori"
 }

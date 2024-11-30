@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "peida",
     "LOOKS_SWITCHCOSTUMETO": "võta kostüüm %1",
     "LOOKS_NEXTCOSTUME": "järgmine kostüüm",
-    "LOOKS_NEXTBACKDROP_BLOCK": "järgmine taust",
+    "LOOKS_NEXTBACKDROP": "järgmine taust",
     "LOOKS_SWITCHBACKDROPTO": "võta taust %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "võta taust %1 ja oota",
     "LOOKS_CHANGEEFFECTBY": "muuda efekti %1 %2 võrra",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "asenda väärtus %1 loendis %2 %3 -ga",
     "DATA_SHOWLIST": "näita loendit %1",
     "DATA_HIDELIST": "peida loend %1",
-    "SENSING_OF_XPOSITION": "x",
-    "SENSING_OF_YPOSITION": "y",
-    "SENSING_OF_DIRECTION": "suund",
+    "MOTION_XPOSITION": "x",
+    "MOTION_YPOSITION": "y",
+    "MOTION_DIRECTION": "suund",
     "SENSING_OF_COSTUMENUMBER": "kostüümi nr",
     "LOOKS_COSTUMENUMBERNAME": "kostüümi %1",
-    "SENSING_OF_SIZE": "suurus",
+    "LOOKS_SIZE": "suurus",
     "SENSING_OF_BACKDROPNAME": "tausta nimi",
     "LOOKS_BACKDROPNUMBERNAME": "tausta %1",
     "SENSING_OF_BACKDROPNUMBER": "tausta nr",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Eesti",
-  "percentTranslated": 100
+  "name": "Eesti"
 }

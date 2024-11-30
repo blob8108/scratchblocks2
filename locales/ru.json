@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "спрятаться",
     "LOOKS_SWITCHCOSTUMETO": "изменить костюм на %1",
     "LOOKS_NEXTCOSTUME": "следующий костюм",
-    "LOOKS_NEXTBACKDROP_BLOCK": "следующий фон",
+    "LOOKS_NEXTBACKDROP": "следующий фон",
     "LOOKS_SWITCHBACKDROPTO": "переключить фон на %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "переключить фон на %1 и ждать",
     "LOOKS_CHANGEEFFECTBY": "изменить эффект %1 на %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "заменить элемент %1 в %2 на %3",
     "DATA_SHOWLIST": "показать список %1",
     "DATA_HIDELIST": "скрыть список %1",
-    "SENSING_OF_XPOSITION": "положение x",
-    "SENSING_OF_YPOSITION": "положение y",
-    "SENSING_OF_DIRECTION": "направление",
+    "MOTION_XPOSITION": "положение x",
+    "MOTION_YPOSITION": "положение y",
+    "MOTION_DIRECTION": "направление",
     "SENSING_OF_COSTUMENUMBER": "костюм #",
     "LOOKS_COSTUMENUMBERNAME": "костюм %1",
-    "SENSING_OF_SIZE": "размер",
+    "LOOKS_SIZE": "размер",
     "SENSING_OF_BACKDROPNAME": "имя фона",
     "LOOKS_BACKDROPNUMBERNAME": "фон %1",
     "SENSING_OF_BACKDROPNUMBER": "фон #",
@@ -261,6 +261,5 @@
     "когда щёлкнут по зелёному флагу": "EVENT_WHENFLAGCLICKED",
     "конец": "scratchblocks:end"
   },
-  "name": "Русский",
-  "percentTranslated": 100
+  "name": "Русский"
 }

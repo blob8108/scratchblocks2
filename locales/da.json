@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "skjul",
     "LOOKS_SWITCHCOSTUMETO": "skift kostume til %1",
     "LOOKS_NEXTCOSTUME": "næste kostume",
-    "LOOKS_NEXTBACKDROP_BLOCK": "næste baggrund",
+    "LOOKS_NEXTBACKDROP": "næste baggrund",
     "LOOKS_SWITCHBACKDROPTO": "skift baggrund til %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "skift baggrund til %1 og vent",
     "LOOKS_CHANGEEFFECTBY": "ændre effekt %1 med %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "erstat nummer %1 af %2 med %3",
     "DATA_SHOWLIST": "vis liste %1",
     "DATA_HIDELIST": "skjul liste %1",
-    "SENSING_OF_XPOSITION": "x position",
-    "SENSING_OF_YPOSITION": "y position",
-    "SENSING_OF_DIRECTION": "retning",
+    "MOTION_XPOSITION": "x position",
+    "MOTION_YPOSITION": "y position",
+    "MOTION_DIRECTION": "retning",
     "SENSING_OF_COSTUMENUMBER": "kostume #",
     "LOOKS_COSTUMENUMBERNAME": "kostume %1",
-    "SENSING_OF_SIZE": "størrelse",
+    "LOOKS_SIZE": "størrelse",
     "SENSING_OF_BACKDROPNAME": "navn på baggrund",
     "LOOKS_BACKDROPNUMBERNAME": "baggrund %1",
     "SENSING_OF_BACKDROPNUMBER": "baggrund #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Dansk",
-  "percentTranslated": 100
+  "name": "Dansk"
 }

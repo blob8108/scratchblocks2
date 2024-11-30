@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "cacher",
     "LOOKS_SWITCHCOSTUMETO": "basculer sur le costume %1",
     "LOOKS_NEXTCOSTUME": "costume suivant",
-    "LOOKS_NEXTBACKDROP_BLOCK": "arrière-plan suivant",
+    "LOOKS_NEXTBACKDROP": "arrière-plan suivant",
     "LOOKS_SWITCHBACKDROPTO": "basculer sur l'arrière-plan %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "basculer sur l'arrière-plan %1 et attendre",
     "LOOKS_CHANGEEFFECTBY": "ajouter %2 à l'effet %1",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "remplacer l'élément %1 de la liste %2 par %3",
     "DATA_SHOWLIST": "montrer la liste %1",
     "DATA_HIDELIST": "cacher la liste %1",
-    "SENSING_OF_XPOSITION": "abscisse x",
-    "SENSING_OF_YPOSITION": "ordonnée y",
-    "SENSING_OF_DIRECTION": "direction",
+    "MOTION_XPOSITION": "abscisse x",
+    "MOTION_YPOSITION": "ordonnée y",
+    "MOTION_DIRECTION": "direction",
     "SENSING_OF_COSTUMENUMBER": "numéro de costume",
     "LOOKS_COSTUMENUMBERNAME": "%1 du costume",
-    "SENSING_OF_SIZE": "taille",
+    "LOOKS_SIZE": "taille",
     "SENSING_OF_BACKDROPNAME": "nom de l'arrière-plan",
     "LOOKS_BACKDROPNUMBERNAME": "%1 de l'arrière-plan",
     "SENSING_OF_BACKDROPNUMBER": "numéro de l'arrière-plan",
@@ -261,6 +261,5 @@
     "quand le drapeau vert pressé": "EVENT_WHENFLAGCLICKED",
     "fin": "scratchblocks:end"
   },
-  "name": "Français",
-  "percentTranslated": 100
+  "name": "Français"
 }

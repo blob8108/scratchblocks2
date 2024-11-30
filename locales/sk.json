@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "skry sa",
     "LOOKS_SWITCHCOSTUMETO": "zmeň kostým na %1",
     "LOOKS_NEXTCOSTUME": "ďalší kostým",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ďalšie pozadie",
+    "LOOKS_NEXTBACKDROP": "ďalšie pozadie",
     "LOOKS_SWITCHBACKDROPTO": "zmeň pozadie na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "zmeň pozadie na %1 a počkaj",
     "LOOKS_CHANGEEFFECTBY": "zmeň efekt %1 o %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "nahraď %1 v %2 hodnotou %3",
     "DATA_SHOWLIST": "ukáž zoznam  %1",
     "DATA_HIDELIST": "skry zoznam  %1",
-    "SENSING_OF_XPOSITION": "pozícia x",
-    "SENSING_OF_YPOSITION": "pozícia y",
-    "SENSING_OF_DIRECTION": "smer",
+    "MOTION_XPOSITION": "pozícia x",
+    "MOTION_YPOSITION": "pozícia y",
+    "MOTION_DIRECTION": "smer",
     "SENSING_OF_COSTUMENUMBER": "číslo kostýmu",
     "LOOKS_COSTUMENUMBERNAME": "kostým %1",
-    "SENSING_OF_SIZE": "veľkosť",
+    "LOOKS_SIZE": "veľkosť",
     "SENSING_OF_BACKDROPNAME": "meno pozadia",
     "LOOKS_BACKDROPNUMBERNAME": "pozadie  %1",
     "SENSING_OF_BACKDROPNUMBER": "číslo pozadia",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Slovenčina",
-  "percentTranslated": 100
+  "name": "Slovenčina"
 }

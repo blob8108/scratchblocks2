@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "piilota",
     "LOOKS_SWITCHCOSTUMETO": "vaihda asusteeksi %1",
     "LOOKS_NEXTCOSTUME": "seuraava asuste",
-    "LOOKS_NEXTBACKDROP_BLOCK": "seuraava tausta",
+    "LOOKS_NEXTBACKDROP": "seuraava tausta",
     "LOOKS_SWITCHBACKDROPTO": "vaihda taustaksi %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "vaihda taustaksi %1 ja odota",
     "LOOKS_CHANGEEFFECTBY": "lisää %1 tehostetta arvolla %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "korvaa listan %2 kohdan %1 arvo arvolla %3",
     "DATA_SHOWLIST": "näytä lista %1",
     "DATA_HIDELIST": "piilota lista %1",
-    "SENSING_OF_XPOSITION": "x-sijainti",
-    "SENSING_OF_YPOSITION": "y-sijainti",
-    "SENSING_OF_DIRECTION": "suunta",
+    "MOTION_XPOSITION": "x-sijainti",
+    "MOTION_YPOSITION": "y-sijainti",
+    "MOTION_DIRECTION": "suunta",
     "SENSING_OF_COSTUMENUMBER": "asusteen numero",
     "LOOKS_COSTUMENUMBERNAME": "asuste %1",
-    "SENSING_OF_SIZE": "koko",
+    "LOOKS_SIZE": "koko",
     "SENSING_OF_BACKDROPNAME": "taustan nimi",
     "LOOKS_BACKDROPNUMBERNAME": "tausta %1",
     "SENSING_OF_BACKDROPNUMBER": "taustan numero",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Suomi",
-  "percentTranslated": 100
+  "name": "Suomi"
 }

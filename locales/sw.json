@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ficha",
     "LOOKS_SWITCHCOSTUMETO": "badilisha mtindo kuwa %1",
     "LOOKS_NEXTCOSTUME": "mtindo ufuatao",
-    "LOOKS_NEXTBACKDROP_BLOCK": "mandhari ya nyuma ifuatayo",
+    "LOOKS_NEXTBACKDROP": "mandhari ya nyuma ifuatayo",
     "LOOKS_SWITCHBACKDROPTO": "badilisha mandhari ya nyuma iwe %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "badilisha mandhari ya nyuma kuwa %1 na subiri",
     "LOOKS_CHANGEEFFECTBY": "badilisha athari ya %1 kwa %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "badilisha kipengee %1 kati ya %2 na %3",
     "DATA_SHOWLIST": "onyesha orodha %1",
     "DATA_HIDELIST": "ficha orodha %1",
-    "SENSING_OF_XPOSITION": "nafasi ya x",
-    "SENSING_OF_YPOSITION": "nafasi ya y",
-    "SENSING_OF_DIRECTION": "mwelekeo",
+    "MOTION_XPOSITION": "nafasi ya x",
+    "MOTION_YPOSITION": "nafasi ya y",
+    "MOTION_DIRECTION": "mwelekeo",
     "SENSING_OF_COSTUMENUMBER": "mtindo #",
     "LOOKS_COSTUMENUMBERNAME": "mtindo %1",
-    "SENSING_OF_SIZE": "ukubwa",
+    "LOOKS_SIZE": "ukubwa",
     "SENSING_OF_BACKDROPNAME": "jina la mandhari ya nyuma",
     "LOOKS_BACKDROPNUMBERNAME": "mandhari ya nyuma %1",
     "SENSING_OF_BACKDROPNUMBER": "mandhari ya nyuma #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Kiswahili",
-  "percentTranslated": 100
+  "name": "Kiswahili"
 }

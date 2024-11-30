@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "かくす",
     "LOOKS_SWITCHCOSTUMETO": "コスチュームを %1 にする",
     "LOOKS_NEXTCOSTUME": "つぎのコスチュームにする",
-    "LOOKS_NEXTBACKDROP_BLOCK": "つぎのはいけいにする",
+    "LOOKS_NEXTBACKDROP": "つぎのはいけい",
     "LOOKS_SWITCHBACKDROPTO": "はいけいを %1 にする",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "はいけいを %1 にしてまつ",
     "LOOKS_CHANGEEFFECTBY": "%1 のこうかを %2 ずつかえる",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 の %1 ばんめを %3 でおきかえる",
     "DATA_SHOWLIST": "リスト %1 をひょうじする",
     "DATA_HIDELIST": "リスト %1 をかくす",
-    "SENSING_OF_XPOSITION": "xざひょう",
-    "SENSING_OF_YPOSITION": "yざひょう",
-    "SENSING_OF_DIRECTION": "むき",
+    "MOTION_XPOSITION": "xざひょう",
+    "MOTION_YPOSITION": "yざひょう",
+    "MOTION_DIRECTION": "むき",
     "SENSING_OF_COSTUMENUMBER": "コスチューム #",
     "LOOKS_COSTUMENUMBERNAME": "コスチュームの %1",
-    "SENSING_OF_SIZE": "おおきさ",
+    "LOOKS_SIZE": "おおきさ",
     "SENSING_OF_BACKDROPNAME": "はいけいのなまえ",
     "LOOKS_BACKDROPNUMBERNAME": "はいけいの %1",
     "SENSING_OF_BACKDROPNUMBER": "はいけい #",
@@ -263,6 +263,5 @@
     "みどりのはたがおされたとき": "EVENT_WHENFLAGCLICKED",
     "みどりのはたがクリックされたとき": "EVENT_WHENFLAGCLICKED"
   },
-  "name": "にほんご",
-  "percentTranslated": 100
+  "name": "にほんご"
 }

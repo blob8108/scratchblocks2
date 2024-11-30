@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ଲୁଚାଅ",
     "LOOKS_SWITCHCOSTUMETO": "ପୋଷାକ %1 କୁ ବଦଳାଇ ଦିଅ",
     "LOOKS_NEXTCOSTUME": "ପରବର୍ତୀ ପୋଷାକ",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ପରବର୍ତୀ ପୃଷ୍ଠଭୂମି",
+    "LOOKS_NEXTBACKDROP": "ପରବର୍ତୀ ପୃଷ୍ଠଭୂମି",
     "LOOKS_SWITCHBACKDROPTO": "ପୃଷ୍ଠଭୂମି %1 କୁ ବଦଳାଅ",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ପୃଷ୍ଠଭୂମି %1 କୁ ବଦଳାଅ ଓ ଅପେକ୍ଷା କର",
     "LOOKS_CHANGEEFFECTBY": "%1 ର ପ୍ରଭାବ କୁ %2 ଦ୍ବାରା ବଦଳାଅ",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 ର %1 ତମ ବସ୍ତୁ କୁ %3 ଦ୍ବାରା ବଦଳାଇ ଦିଅ",
     "DATA_SHOWLIST": "%1 ତାଲିକା ଦେଖାଅ",
     "DATA_HIDELIST": "%1 ତାଲିକା ଲୁଚାଅ",
-    "SENSING_OF_XPOSITION": "x ସ୍ଥିତି",
-    "SENSING_OF_YPOSITION": "y ସ୍ଥିତି",
-    "SENSING_OF_DIRECTION": "ଦିଗ",
+    "MOTION_XPOSITION": "x ସ୍ଥିତି",
+    "MOTION_YPOSITION": "y ସ୍ଥିତି",
+    "MOTION_DIRECTION": "ଦିଗ",
     "SENSING_OF_COSTUMENUMBER": "ପୋଷାକ #",
     "LOOKS_COSTUMENUMBERNAME": "%1 ପୋଷାକ",
-    "SENSING_OF_SIZE": "ଆକାର",
+    "LOOKS_SIZE": "ଆକାର",
     "SENSING_OF_BACKDROPNAME": "ପୃଷ୍ଠଭୂମି ର ନାମ",
     "LOOKS_BACKDROPNUMBERNAME": "%1 ପୃଷ୍ଠଭୂମି",
     "SENSING_OF_BACKDROPNUMBER": "ପୃଷ୍ଠଭୂମି #",
@@ -257,6 +257,5 @@
     "10^"
   ],
   "aliases": {},
-  "name": "ଓଡ଼ିଆ",
-  "percentTranslated": 100
+  "name": "ଓଡ଼ିଆ"
 }

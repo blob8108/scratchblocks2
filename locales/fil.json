@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "itago",
     "LOOKS_SWITCHCOSTUMETO": "palitan ang costume ng %1",
     "LOOKS_NEXTCOSTUME": "susunod na costume",
-    "LOOKS_NEXTBACKDROP_BLOCK": "susunod na likod",
+    "LOOKS_NEXTBACKDROP": "susunod na likod",
     "LOOKS_SWITCHBACKDROPTO": "palitan ang likod ng %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "palitan ang likod ng %1 at maghintay",
     "LOOKS_CHANGEEFFECTBY": "baguhin ang epektong %1 nang %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "palitan ang item na %1 ng %2 ng %3",
     "DATA_SHOWLIST": "ipakita ang listahan na %1",
     "DATA_HIDELIST": "itago ang listahan na %1",
-    "SENSING_OF_XPOSITION": "posisyong x",
-    "SENSING_OF_YPOSITION": "posisyong y",
-    "SENSING_OF_DIRECTION": "direksyon",
+    "MOTION_XPOSITION": "posisyong x",
+    "MOTION_YPOSITION": "posisyong y",
+    "MOTION_DIRECTION": "direksyon",
     "SENSING_OF_COSTUMENUMBER": "costume #",
     "LOOKS_COSTUMENUMBERNAME": "costume na %1",
-    "SENSING_OF_SIZE": "laki",
+    "LOOKS_SIZE": "laki",
     "SENSING_OF_BACKDROPNAME": "pangalan ng likod",
     "LOOKS_BACKDROPNUMBERNAME": "likod na %1",
     "SENSING_OF_BACKDROPNUMBER": "likod #",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Filipino",
-  "percentTranslated": 100
+  "name": "Filipino"
 }

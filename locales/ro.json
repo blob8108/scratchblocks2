@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ascunde",
     "LOOKS_SWITCHCOSTUMETO": "schimbă costumul la %1",
     "LOOKS_NEXTCOSTUME": "costumul următor",
-    "LOOKS_NEXTBACKDROP_BLOCK": "decorul următor",
+    "LOOKS_NEXTBACKDROP": "decorul următor",
     "LOOKS_SWITCHBACKDROPTO": "schimbă decorul la %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "schimbă decorul la %1 și așteaptă",
     "LOOKS_CHANGEEFFECTBY": "modifică efectul %1 cu %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "înlocuiește item %1 din %2 cu %3",
     "DATA_SHOWLIST": "arată lista %1",
     "DATA_HIDELIST": "ascunde lista %1",
-    "SENSING_OF_XPOSITION": "poziția x",
-    "SENSING_OF_YPOSITION": "poziția y",
-    "SENSING_OF_DIRECTION": "direcția",
+    "MOTION_XPOSITION": "poziția x",
+    "MOTION_YPOSITION": "poziția y",
+    "MOTION_DIRECTION": "direcția",
     "SENSING_OF_COSTUMENUMBER": "nr. costum",
     "LOOKS_COSTUMENUMBERNAME": "costumul %1",
-    "SENSING_OF_SIZE": "mărime",
+    "LOOKS_SIZE": "mărime",
     "SENSING_OF_BACKDROPNAME": "denumire decor",
     "LOOKS_BACKDROPNUMBERNAME": "decor %1",
     "SENSING_OF_BACKDROPNUMBER": "nr. decor",
@@ -261,6 +261,5 @@
     "când se face click pe stegulețul verde": "EVENT_WHENFLAGCLICKED",
     "terminare": "scratchblocks:end"
   },
-  "name": "Română",
-  "percentTranslated": 100
+  "name": "Română"
 }

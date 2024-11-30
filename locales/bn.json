@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "লুকাও",
     "LOOKS_SWITCHCOSTUMETO": "পোশাক %1 এ পরিবর্তন কর",
     "LOOKS_NEXTCOSTUME": "পরবর্তী পোশাক",
-    "LOOKS_NEXTBACKDROP_BLOCK": "পরবর্তী ব্যাকড্রপ",
+    "LOOKS_NEXTBACKDROP": "পরবর্তী ব্যাকড্রপ",
     "LOOKS_SWITCHBACKDROPTO": "ব্যাকড্রপ %1 এ পরিবর্তন কর",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ব্যাকড্রপ %1 এ পরিবর্তন করে অপেক্ষা কর",
     "LOOKS_CHANGEEFFECTBY": "%1 এর ইফেক্ট %2 পরিবর্তন কর",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 এর %1 আইটেমকে %3 দ্বারা প্রতিস্থাপন কর",
     "DATA_SHOWLIST": "%1 তালিকা প্রদর্শন কর",
     "DATA_HIDELIST": "%1 তালিকা লুকাও",
-    "SENSING_OF_XPOSITION": "x এর অবস্থান",
-    "SENSING_OF_YPOSITION": "y এর অবস্থান",
-    "SENSING_OF_DIRECTION": "দিক",
+    "MOTION_XPOSITION": "x এর অবস্থান",
+    "MOTION_YPOSITION": "y এর অবস্থান",
+    "MOTION_DIRECTION": "দিক",
     "SENSING_OF_COSTUMENUMBER": "পোশাক #",
     "LOOKS_COSTUMENUMBERNAME": "পোশাক %1",
-    "SENSING_OF_SIZE": "আকার",
+    "LOOKS_SIZE": "আকার",
     "SENSING_OF_BACKDROPNAME": "ব্যাকড্রপের নাম",
     "LOOKS_BACKDROPNUMBERNAME": "ব্যাকড্রপ %1",
     "SENSING_OF_BACKDROPNUMBER": "ব্যাকড্রপ #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "বাংলা",
-  "percentTranslated": 100
+  "name": "বাংলা"
 }

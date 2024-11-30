@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "скрий се",
     "LOOKS_SWITCHCOSTUMETO": "промени костюм на %1",
     "LOOKS_NEXTCOSTUME": "следващ костюм",
-    "LOOKS_NEXTBACKDROP_BLOCK": "следващ декор",
+    "LOOKS_NEXTBACKDROP": "следващ декор",
     "LOOKS_SWITCHBACKDROPTO": "смени декора с %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "смени декора с %1 и чакай",
     "LOOKS_CHANGEEFFECTBY": "промени ефект %1  с %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "замени елемент %1 от %2 с %3",
     "DATA_SHOWLIST": "покажи списък %1",
     "DATA_HIDELIST": "скрий списък %1",
-    "SENSING_OF_XPOSITION": "x позиция",
-    "SENSING_OF_YPOSITION": "y позиция",
-    "SENSING_OF_DIRECTION": "посока",
+    "MOTION_XPOSITION": "x позиция",
+    "MOTION_YPOSITION": "y позиция",
+    "MOTION_DIRECTION": "посока",
     "SENSING_OF_COSTUMENUMBER": "костюм #",
     "LOOKS_COSTUMENUMBERNAME": "костюм %1",
-    "SENSING_OF_SIZE": "размер",
+    "LOOKS_SIZE": "размер",
     "SENSING_OF_BACKDROPNAME": "име на декор",
     "LOOKS_BACKDROPNUMBERNAME": "декор %1",
     "SENSING_OF_BACKDROPNUMBER": "декор #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Български",
-  "percentTranslated": 100
+  "name": "Български"
 }

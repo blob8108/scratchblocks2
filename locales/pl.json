@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ukryj",
     "LOOKS_SWITCHCOSTUMETO": "zmień kostium na %1",
     "LOOKS_NEXTCOSTUME": "następny kostium",
-    "LOOKS_NEXTBACKDROP_BLOCK": "następne tło",
+    "LOOKS_NEXTBACKDROP": "następne tło",
     "LOOKS_SWITCHBACKDROPTO": "zmień tło na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "zmień tło na %1 i czekaj",
     "LOOKS_CHANGEEFFECTBY": "zmień efekt %1 o %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "zamień %1 z %2 na %3",
     "DATA_SHOWLIST": "pokaż listę %1",
     "DATA_HIDELIST": "ukryj listę %1",
-    "SENSING_OF_XPOSITION": "pozycja x",
-    "SENSING_OF_YPOSITION": "pozycja y",
-    "SENSING_OF_DIRECTION": "kierunek",
+    "MOTION_XPOSITION": "pozycja x",
+    "MOTION_YPOSITION": "pozycja y",
+    "MOTION_DIRECTION": "kierunek",
     "SENSING_OF_COSTUMENUMBER": "indeks kostiumu",
     "LOOKS_COSTUMENUMBERNAME": "kostium %1",
-    "SENSING_OF_SIZE": "rozmiar",
+    "LOOKS_SIZE": "rozmiar",
     "SENSING_OF_BACKDROPNAME": "nazwa tła",
     "LOOKS_BACKDROPNUMBERNAME": "tło %1",
     "SENSING_OF_BACKDROPNUMBER": "indeks tła",
@@ -261,6 +261,5 @@
     "kiedy kliknięto zieloną flagę": "EVENT_WHENFLAGCLICKED",
     "koniec": "scratchblocks:end"
   },
-  "name": "Polski",
-  "percentTranslated": 100
+  "name": "Polski"
 }

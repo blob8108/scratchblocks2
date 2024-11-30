@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "隠す",
     "LOOKS_SWITCHCOSTUMETO": "コスチュームを %1 にする",
     "LOOKS_NEXTCOSTUME": "次のコスチュームにする",
-    "LOOKS_NEXTBACKDROP_BLOCK": "次の背景にする",
+    "LOOKS_NEXTBACKDROP": "次の背景",
     "LOOKS_SWITCHBACKDROPTO": "背景を %1 にする",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "背景を %1 にして待つ",
     "LOOKS_CHANGEEFFECTBY": "%1 の効果を %2 ずつ変える",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 の %1 番目を %3 で置き換える",
     "DATA_SHOWLIST": "リスト %1 を表示する",
     "DATA_HIDELIST": "リスト %1 を隠す",
-    "SENSING_OF_XPOSITION": "x座標",
-    "SENSING_OF_YPOSITION": "y座標",
-    "SENSING_OF_DIRECTION": "向き",
+    "MOTION_XPOSITION": "x座標",
+    "MOTION_YPOSITION": "y座標",
+    "MOTION_DIRECTION": "向き",
     "SENSING_OF_COSTUMENUMBER": "コスチューム #",
     "LOOKS_COSTUMENUMBERNAME": "コスチュームの %1",
-    "SENSING_OF_SIZE": "大きさ",
+    "LOOKS_SIZE": "大きさ",
     "SENSING_OF_BACKDROPNAME": "背景の名前",
     "LOOKS_BACKDROPNUMBERNAME": "背景の %1",
     "SENSING_OF_BACKDROPNUMBER": "背景 #",
@@ -263,6 +263,5 @@
     "緑の旗が押されたとき": "EVENT_WHENFLAGCLICKED",
     "緑の旗がクリックされたとき": "EVENT_WHENFLAGCLICKED"
   },
-  "name": "日本語",
-  "percentTranslated": 100
+  "name": "日本語"
 }

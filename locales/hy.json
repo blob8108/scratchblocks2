@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "թաքցնել",
     "LOOKS_SWITCHCOSTUMETO": "զգեստը՝ %1",
     "LOOKS_NEXTCOSTUME": "հաջորդ զգեստը",
-    "LOOKS_NEXTBACKDROP_BLOCK": "հաջորդ ետնապատկերը",
+    "LOOKS_NEXTBACKDROP": "հաջորդ ետնապատկերը",
     "LOOKS_SWITCHBACKDROPTO": "ետնապատկերը՝ %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "Ետնապատկերը փոխարինել %1 -ով և սպասել",
     "LOOKS_CHANGEEFFECTBY": "փոխել %1 էֆՖեկտը %2 -ով",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "փոխարինել %1 տարրը %2-ից  %3-ով",
     "DATA_SHOWLIST": "ցույց տալ %1 ցուցակը",
     "DATA_HIDELIST": "թաքցնել %1 ցուցակը",
-    "SENSING_OF_XPOSITION": "x -ը",
-    "SENSING_OF_YPOSITION": "y -ը",
-    "SENSING_OF_DIRECTION": "ուղղություն",
+    "MOTION_XPOSITION": "x -ը",
+    "MOTION_YPOSITION": "y -ը",
+    "MOTION_DIRECTION": "ուղղություն",
     "SENSING_OF_COSTUMENUMBER": "զգեստ #",
     "LOOKS_COSTUMENUMBERNAME": "զգեստ %1",
-    "SENSING_OF_SIZE": "չափս",
+    "LOOKS_SIZE": "չափս",
     "SENSING_OF_BACKDROPNAME": "ետնապատկերի անունը",
     "LOOKS_BACKDROPNUMBERNAME": "ետնապատկեր %1",
     "SENSING_OF_BACKDROPNUMBER": "ետնապատկեր #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Հայերեն",
-  "percentTranslated": 100
+  "name": "Հայերեն"
 }

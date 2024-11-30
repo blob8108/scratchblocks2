@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "verstecke dich",
     "LOOKS_SWITCHCOSTUMETO": "wechsle zu Kostüm %1",
     "LOOKS_NEXTCOSTUME": "wechsle zum nächsten Kostüm",
-    "LOOKS_NEXTBACKDROP_BLOCK": "wechsle zum nächsten Bühnenbild",
+    "LOOKS_NEXTBACKDROP": "nächstes Bühnenbild",
     "LOOKS_SWITCHBACKDROPTO": "wechsle zu Bühnenbild %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "wechsle zu Bühnenbild %1 und warte",
     "LOOKS_CHANGEEFFECTBY": "ändere Effekt %1 um %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ersetze Element %1 von %2 durch %3",
     "DATA_SHOWLIST": "zeige Liste %1",
     "DATA_HIDELIST": "verstecke Liste %1",
-    "SENSING_OF_XPOSITION": "x-Position",
-    "SENSING_OF_YPOSITION": "y-Position",
-    "SENSING_OF_DIRECTION": "Richtung",
+    "MOTION_XPOSITION": "x-Position",
+    "MOTION_YPOSITION": "y-Position",
+    "MOTION_DIRECTION": "Richtung",
     "SENSING_OF_COSTUMENUMBER": "Kostümnummer",
     "LOOKS_COSTUMENUMBERNAME": "Kostüm %1",
-    "SENSING_OF_SIZE": "Größe",
+    "LOOKS_SIZE": "Größe",
     "SENSING_OF_BACKDROPNAME": "Bühnenbildname",
     "LOOKS_BACKDROPNUMBERNAME": "Bühnenbild %1",
     "SENSING_OF_BACKDROPNUMBER": "Bühnenbildnummer",
@@ -261,6 +261,5 @@
     "Wenn die grüne Flagge angeklickt": "EVENT_WHENFLAGCLICKED",
     "Ende": "scratchblocks:end"
   },
-  "name": "Deutsch",
-  "percentTranslated": 100
+  "name": "Deutsch"
 }

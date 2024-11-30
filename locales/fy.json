@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ferstopje",
     "LOOKS_SWITCHCOSTUMETO": "wikselje kostúm nei %1",
     "LOOKS_NEXTCOSTUME": "folgjende kostúm",
-    "LOOKS_NEXTBACKDROP_BLOCK": "folgjende dekôr",
+    "LOOKS_NEXTBACKDROP": "folgjende dekôr",
     "LOOKS_SWITCHBACKDROPTO": "wikselje eftergrûn nei %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "wikselje dekôr nei %1 en wachtsje",
     "LOOKS_CHANGEEFFECTBY": "feroarje %1 effekt mei %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ferfang ûnderdiel %1 fan %2 troch %3",
     "DATA_SHOWLIST": "list %1 sjen litte",
     "DATA_HIDELIST": "list %1 ferbergje",
-    "SENSING_OF_XPOSITION": "posysje fan x",
-    "SENSING_OF_YPOSITION": "posysje fan y",
-    "SENSING_OF_DIRECTION": "rjochting",
+    "MOTION_XPOSITION": "x posysje",
+    "MOTION_YPOSITION": "y posysje",
+    "MOTION_DIRECTION": "rjochting",
     "SENSING_OF_COSTUMENUMBER": "kostúm #",
     "LOOKS_COSTUMENUMBERNAME": "kostúm %1",
-    "SENSING_OF_SIZE": "grutte",
+    "LOOKS_SIZE": "grutte",
     "SENSING_OF_BACKDROPNAME": "eftergrûn namme",
     "LOOKS_BACKDROPNUMBERNAME": "eftergrûn %1",
     "SENSING_OF_BACKDROPNUMBER": "eftergrûn #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Frysk",
-  "percentTranslated": 100
+  "name": "Frysk"
 }

@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "sembunyikan",
     "LOOKS_SWITCHCOSTUMETO": "ganti kostum ke %1",
     "LOOKS_NEXTCOSTUME": "kostum berikutnya",
-    "LOOKS_NEXTBACKDROP_BLOCK": "latar berikutnya",
+    "LOOKS_NEXTBACKDROP": "latar berikutnya",
     "LOOKS_SWITCHBACKDROPTO": "ganti latar ke %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ganti latar ke %1 dan tunggu",
     "LOOKS_CHANGEEFFECTBY": "ubah efek %1 sebesar %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ganti benda %1 dari %2 dengan %3",
     "DATA_SHOWLIST": "tampilkan daftar %1",
     "DATA_HIDELIST": "sembunyikan daftar %1",
-    "SENSING_OF_XPOSITION": "posisi x",
-    "SENSING_OF_YPOSITION": "posisi y",
-    "SENSING_OF_DIRECTION": "arah",
+    "MOTION_XPOSITION": "posisi x",
+    "MOTION_YPOSITION": "posisi y",
+    "MOTION_DIRECTION": "arah",
     "SENSING_OF_COSTUMENUMBER": "# kostum",
     "LOOKS_COSTUMENUMBERNAME": "%1 kostum",
-    "SENSING_OF_SIZE": "ukuran",
+    "LOOKS_SIZE": "ukuran",
     "SENSING_OF_BACKDROPNAME": "nama latar",
     "LOOKS_BACKDROPNUMBERNAME": "latar %1",
     "SENSING_OF_BACKDROPNUMBER": "latar #",
@@ -261,6 +261,5 @@
     "ketika bendera hijau diklik": "EVENT_WHENFLAGCLICKED",
     "selesai": "scratchblocks:end"
   },
-  "name": "Bahasa Indonesia",
-  "percentTranslated": 100
+  "name": "Bahasa Indonesia"
 }

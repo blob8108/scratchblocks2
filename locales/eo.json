@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "kaŝi",
     "LOOKS_SWITCHCOSTUMETO": "ŝanĝi al la kostumo %1",
     "LOOKS_NEXTCOSTUME": "sekva kostumo",
-    "LOOKS_NEXTBACKDROP_BLOCK": "sekva fono",
+    "LOOKS_NEXTBACKDROP": "sekva fono",
     "LOOKS_SWITCHBACKDROPTO": "ŝanĝi fonon al %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ŝanĝi fonon al %1 kaj atendi",
     "LOOKS_CHANGEEFFECTBY": "ŝanĝi efikon %1 je %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "anstataŭigi %1-an eron de %2 per %3",
     "DATA_SHOWLIST": "montri liston %1",
     "DATA_HIDELIST": "kaŝi liston %1",
-    "SENSING_OF_XPOSITION": "x-pozicio",
-    "SENSING_OF_YPOSITION": "y-pozicio",
-    "SENSING_OF_DIRECTION": "direkto",
+    "MOTION_XPOSITION": "x-pozicio",
+    "MOTION_YPOSITION": "y-pozicio",
+    "MOTION_DIRECTION": "direkto",
     "SENSING_OF_COSTUMENUMBER": "numero de kostumo",
     "LOOKS_COSTUMENUMBERNAME": "%1 de kostumo",
-    "SENSING_OF_SIZE": "grando",
+    "LOOKS_SIZE": "grando",
     "SENSING_OF_BACKDROPNAME": "nomo de fono",
     "LOOKS_BACKDROPNUMBERNAME": "%1 de fono",
     "SENSING_OF_BACKDROPNUMBER": "numero de la fono",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Esperanto",
-  "percentTranslated": 100
+  "name": "Esperanto"
 }

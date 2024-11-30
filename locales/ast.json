@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "anubrir",
     "LOOKS_SWITCHCOSTUMETO": "cambiar disfraz a %1",
     "LOOKS_NEXTCOSTUME": "siguiente disfraz",
-    "LOOKS_NEXTBACKDROP_BLOCK": "siguiente fondu",
+    "LOOKS_NEXTBACKDROP": "siguiente fondu",
     "LOOKS_SWITCHBACKDROPTO": "cambiar fondu a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "cambiar fondu a %1 y esperar",
     "LOOKS_CHANGEEFFECTBY": "cambiar l'efectu %1 por %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "sustituyir item %1 de %2 con %3",
     "DATA_SHOWLIST": "amosar llista %1",
     "DATA_HIDELIST": "anubrir llista %1",
-    "SENSING_OF_XPOSITION": "posición x",
-    "SENSING_OF_YPOSITION": "posición y",
-    "SENSING_OF_DIRECTION": "direición",
+    "MOTION_XPOSITION": "posición x",
+    "MOTION_YPOSITION": "posición y",
+    "MOTION_DIRECTION": "direición",
     "SENSING_OF_COSTUMENUMBER": "núm. de disfraz",
     "LOOKS_COSTUMENUMBERNAME": "disfraz %1",
-    "SENSING_OF_SIZE": "tamañu",
+    "LOOKS_SIZE": "tamañu",
     "SENSING_OF_BACKDROPNAME": "nombre de fondu",
     "LOOKS_BACKDROPNUMBERNAME": "fondu %1",
     "SENSING_OF_BACKDROPNUMBER": "núm. de fondu",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Asturianu",
-  "percentTranslated": 100
+  "name": "Asturianu"
 }

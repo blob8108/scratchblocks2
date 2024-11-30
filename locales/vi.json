@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ẩn",
     "LOOKS_SWITCHCOSTUMETO": "chuyển sang trang phục %1",
     "LOOKS_NEXTCOSTUME": "trang phục kế tiếp",
-    "LOOKS_NEXTBACKDROP_BLOCK": "phông nền tiếp theo",
+    "LOOKS_NEXTBACKDROP": "phông nền tiếp theo",
     "LOOKS_SWITCHBACKDROPTO": "đổi phông nền thành %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "đổi phông nền thành %1 và đợi",
     "LOOKS_CHANGEEFFECTBY": "thay đổi hiệu ứng %1 một lượng %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "thay thế phần tử thứ %1 của danh sách %2 bằng %3",
     "DATA_SHOWLIST": "hiện danh sách %1",
     "DATA_HIDELIST": "ẩn danh sách %1",
-    "SENSING_OF_XPOSITION": "tọa độ x",
-    "SENSING_OF_YPOSITION": "tọa độ y",
-    "SENSING_OF_DIRECTION": "hướng",
+    "MOTION_XPOSITION": "tọa độ x",
+    "MOTION_YPOSITION": "tọa độ y",
+    "MOTION_DIRECTION": "hướng",
     "SENSING_OF_COSTUMENUMBER": "trang phục #",
     "LOOKS_COSTUMENUMBERNAME": "trang phục %1",
-    "SENSING_OF_SIZE": "kích thước",
+    "LOOKS_SIZE": "kích thước",
     "SENSING_OF_BACKDROPNAME": "tên phông nền",
     "LOOKS_BACKDROPNUMBERNAME": "phông nền %1",
     "SENSING_OF_BACKDROPNUMBER": "phông nền #",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Tiếng Việt",
-  "percentTranslated": 100
+  "name": "Tiếng Việt"
 }

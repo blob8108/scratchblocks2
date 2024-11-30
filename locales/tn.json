@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "fitlha",
     "LOOKS_SWITCHCOSTUMETO": "fetolela diaparo go %1",
     "LOOKS_NEXTCOSTUME": "seaparo se se latelang",
-    "LOOKS_NEXTBACKDROP_BLOCK": "tatlhelomorago e e latelang",
+    "LOOKS_NEXTBACKDROP": "tatlhelomorago e e latelang",
     "LOOKS_SWITCHBACKDROPTO": "fetolela tatlhelo morago go %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "fetolela tatlhelomorago go %1 mme o lete",
     "LOOKS_CHANGEEFFECTBY": "fetola %1 go simolola ka %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "emisetsa selwana %1 ya %2 ka %3",
     "DATA_SHOWLIST": "bontsha lenaane %1",
     "DATA_HIDELIST": "fitlha lenaane %1",
-    "SENSING_OF_XPOSITION": "boemo jwa x",
-    "SENSING_OF_YPOSITION": "boemo jwa y",
-    "SENSING_OF_DIRECTION": "kaelo",
+    "MOTION_XPOSITION": "boemo jwa x",
+    "MOTION_YPOSITION": "boemo jwa y",
+    "MOTION_DIRECTION": "kaelo",
     "SENSING_OF_COSTUMENUMBER": "seaparo #",
     "LOOKS_COSTUMENUMBERNAME": "seaparo %1",
-    "SENSING_OF_SIZE": "bogolo",
+    "LOOKS_SIZE": "bogolo",
     "SENSING_OF_BACKDROPNAME": "leina la tatlhelo morago",
     "LOOKS_BACKDROPNUMBERNAME": "tatlhelomorago %1",
     "SENSING_OF_BACKDROPNUMBER": "tatlhelo morago #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Setswana",
-  "percentTranslated": 100
+  "name": "Setswana"
 }

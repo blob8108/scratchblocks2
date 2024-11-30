@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "הסתר",
     "LOOKS_SWITCHCOSTUMETO": "קבע תלבושת ל %1",
     "LOOKS_NEXTCOSTUME": "התלבושת הבאה",
-    "LOOKS_NEXTBACKDROP_BLOCK": "הרקע הבא",
+    "LOOKS_NEXTBACKDROP": "הרקע הבא",
     "LOOKS_SWITCHBACKDROPTO": "קבע רקע ל %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "החלף רקע ל %1 וחכה",
     "LOOKS_CHANGEEFFECTBY": "שנה אפקט %1 ב %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "קבע פריט %1 של %2 ל %3",
     "DATA_SHOWLIST": "הצג רשימה %1",
     "DATA_HIDELIST": "הסתר רשימה %1",
-    "SENSING_OF_XPOSITION": "מיקום על ציר x",
-    "SENSING_OF_YPOSITION": "מיקום על ציר y",
-    "SENSING_OF_DIRECTION": "כיוון",
+    "MOTION_XPOSITION": "מיקום על ציר x",
+    "MOTION_YPOSITION": "מיקום על ציר y",
+    "MOTION_DIRECTION": "כיוון",
     "SENSING_OF_COSTUMENUMBER": "מספר תלבושת",
     "LOOKS_COSTUMENUMBERNAME": "%1 תלבושת",
-    "SENSING_OF_SIZE": "גודל",
+    "LOOKS_SIZE": "גודל",
     "SENSING_OF_BACKDROPNAME": "שם רקע",
     "LOOKS_BACKDROPNUMBERNAME": "%1 רקע",
     "SENSING_OF_BACKDROPNUMBER": "מספר רקע",
@@ -261,6 +261,5 @@
     "כאשר לוחצים על דגל ירוק": "EVENT_WHENFLAGCLICKED",
     "סוף": "scratchblocks:end"
   },
-  "name": "עִבְרִית",
-  "percentTranslated": 100
+  "name": "עִבְרִית"
 }

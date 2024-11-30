@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ซ่อน",
     "LOOKS_SWITCHCOSTUMETO": "เปลี่ยนคอสตูมเป็น %1",
     "LOOKS_NEXTCOSTUME": "ชุดถัดไป",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ฉากหลังต่อไป",
+    "LOOKS_NEXTBACKDROP": "ฉากหลังต่อไป",
     "LOOKS_SWITCHBACKDROPTO": "เปลี่ยนฉากหลังเป็น %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "เปลี่ยนฉากหลังเป็น %1 และรอ",
     "LOOKS_CHANGEEFFECTBY": "เปลี่ยนเอฟเฟกต์ %1 ทีละ %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "แทนที่รายการที่ %1 ของ %2 ด้วย %3",
     "DATA_SHOWLIST": "แสดงรายการ %1",
     "DATA_HIDELIST": "ซ่อนรายการ %1",
-    "SENSING_OF_XPOSITION": "ตำแหน่ง x",
-    "SENSING_OF_YPOSITION": "ตำแหน่ง y",
-    "SENSING_OF_DIRECTION": "ทิศทาง",
+    "MOTION_XPOSITION": "ตำแหน่ง x",
+    "MOTION_YPOSITION": "ตำแหน่ง y",
+    "MOTION_DIRECTION": "ทิศทาง",
     "SENSING_OF_COSTUMENUMBER": "คอสตูม #",
     "LOOKS_COSTUMENUMBERNAME": "คอสตูม %1",
-    "SENSING_OF_SIZE": "ขนาด",
+    "LOOKS_SIZE": "ขนาด",
     "SENSING_OF_BACKDROPNAME": "ชื่อฉากหลัง",
     "LOOKS_BACKDROPNUMBERNAME": "ฉากหลัง %1",
     "SENSING_OF_BACKDROPNUMBER": "ฉากหลัง #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "ไทย",
-  "percentTranslated": 100
+  "name": "ไทย"
 }

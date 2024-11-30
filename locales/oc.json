@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "amagar",
     "LOOKS_SWITCHCOSTUMETO": "escambiar lo costum per %1",
     "LOOKS_NEXTCOSTUME": "costum seguent",
-    "LOOKS_NEXTBACKDROP_BLOCK": "fons seguent",
+    "LOOKS_NEXTBACKDROP": "fons seguent",
     "LOOKS_SWITCHBACKDROPTO": "escambiar lo fons per %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "escambiar fons per %1 e esperar",
     "LOOKS_CHANGEEFFECTBY": "cambiar %1 efièch per %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "remplaçar element %1 de %2 amb %3",
     "DATA_SHOWLIST": "mostrar tièra %1",
     "DATA_HIDELIST": "amagar tièra %1",
-    "SENSING_OF_XPOSITION": "posicion x",
-    "SENSING_OF_YPOSITION": "posicion y",
-    "SENSING_OF_DIRECTION": "direccion",
+    "MOTION_XPOSITION": "posicion x",
+    "MOTION_YPOSITION": "posicion y",
+    "MOTION_DIRECTION": "direccion",
     "SENSING_OF_COSTUMENUMBER": "costum #",
     "LOOKS_COSTUMENUMBERNAME": "costum %1",
-    "SENSING_OF_SIZE": "talha",
+    "LOOKS_SIZE": "talha",
     "SENSING_OF_BACKDROPNAME": "nom del fons",
     "LOOKS_BACKDROPNUMBERNAME": "fons %1",
     "SENSING_OF_BACKDROPNUMBER": "fons #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Occitan",
-  "percentTranslated": 100
+  "name": "Occitan"
 }

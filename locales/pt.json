@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "esconde-te",
     "LOOKS_SWITCHCOSTUMETO": "muda o teu traje para %1",
     "LOOKS_NEXTCOSTUME": "passa para o teu próximo traje",
-    "LOOKS_NEXTBACKDROP_BLOCK": "passa para o teu próximo cenário",
+    "LOOKS_NEXTBACKDROP": "passa para o teu próximo cenário",
     "LOOKS_SWITCHBACKDROPTO": "muda o cenário para %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "muda o cenário para %1 e espera",
     "LOOKS_CHANGEEFFECTBY": "adiciona ao teu efeito %1 o valor %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "substitui %1 de %2 por %3",
     "DATA_SHOWLIST": "mostra a lista %1",
     "DATA_HIDELIST": "esconde a lista %1",
-    "SENSING_OF_XPOSITION": "o x da posição",
-    "SENSING_OF_YPOSITION": "o y da posição",
-    "SENSING_OF_DIRECTION": "a direcção",
+    "MOTION_XPOSITION": "o x da tua posição",
+    "MOTION_YPOSITION": "o y da tua posição",
+    "MOTION_DIRECTION": "a direcção",
     "SENSING_OF_COSTUMENUMBER": "o número do traje",
     "LOOKS_COSTUMENUMBERNAME": "%1 do traje",
-    "SENSING_OF_SIZE": "o tamanho",
+    "LOOKS_SIZE": "o tamanho",
     "SENSING_OF_BACKDROPNAME": "o nome do cenário",
     "LOOKS_BACKDROPNUMBERNAME": "%1 do cenário",
     "SENSING_OF_BACKDROPNUMBER": "o número do cenário",
@@ -261,6 +261,5 @@
     "Quando alguém clicar na bandeira verde": "EVENT_WHENFLAGCLICKED",
     "fim": "scratchblocks:end"
   },
-  "name": "Português",
-  "percentTranslated": 100
+  "name": "Português"
 }

@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "veşêre",
     "LOOKS_SWITCHCOSTUMETO": "kostumê %1ê li xwe bike",
     "LOOKS_NEXTCOSTUME": "kostumê pêş",
-    "LOOKS_NEXTBACKDROP_BLOCK": "dekora piştre",
+    "LOOKS_NEXTBACKDROP": "dekora piştre",
     "LOOKS_SWITCHBACKDROPTO": "derbasî dekora %1ê bibe",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "derbasî dekora %1 bibe û bisekine",
     "LOOKS_CHANGEEFFECTBY": "efekta %1 bi qasî %2 biguherîne",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "hêmana %2 ya %1ê bi %3ê re pev biguherîne",
     "DATA_SHOWLIST": "lîsteya %1ê nîşan bide",
     "DATA_HIDELIST": "lîsteya %1ê veşêre",
-    "SENSING_OF_XPOSITION": "cîgeha x'ê",
-    "SENSING_OF_YPOSITION": "cîgeha y'yê",
-    "SENSING_OF_DIRECTION": "hêl",
+    "MOTION_XPOSITION": "cîgeha x'ê",
+    "MOTION_YPOSITION": "cîgeha y'yê",
+    "MOTION_DIRECTION": "hêl",
     "SENSING_OF_COSTUMENUMBER": "kostum #",
     "LOOKS_COSTUMENUMBERNAME": "kostumê %1",
-    "SENSING_OF_SIZE": "mezinahî",
+    "LOOKS_SIZE": "mezinahî",
     "SENSING_OF_BACKDROPNAME": "navê dekorê",
     "LOOKS_BACKDROPNUMBERNAME": "dekora %1",
     "SENSING_OF_BACKDROPNUMBER": "dekor #",
@@ -258,6 +258,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Kurdî",
-  "percentTranslated": 100
+  "name": "Kurdî"
 }

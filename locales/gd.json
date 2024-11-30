@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "falaich",
     "LOOKS_SWITCHCOSTUMETO": "cuir dreach %1 ort",
     "LOOKS_NEXTCOSTUME": "an t-ath-dhreach",
-    "LOOKS_NEXTBACKDROP_BLOCK": "an t-ath-chùlaibh",
+    "LOOKS_NEXTBACKDROP": "an t-ath-chùlaibh",
     "LOOKS_SWITCHBACKDROPTO": "cuir %1 air a’ chùlaibh",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "cuir %1 air a’ chùlaibh is fan ri càch",
     "LOOKS_CHANGEEFFECTBY": "atharraich èifeachd %1 le %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "cuir %3 an àite nì %1 de %2",
     "DATA_SHOWLIST": "seall an liosta %1",
     "DATA_HIDELIST": "falaich an liosta %1",
-    "SENSING_OF_XPOSITION": "ionad x",
-    "SENSING_OF_YPOSITION": "ionad y",
-    "SENSING_OF_DIRECTION": "comhair",
+    "MOTION_XPOSITION": "ionad x",
+    "MOTION_YPOSITION": "ionad y",
+    "MOTION_DIRECTION": "comhair",
     "SENSING_OF_COSTUMENUMBER": "àireamh an dreacha",
     "LOOKS_COSTUMENUMBERNAME": "%1 an dreacha",
-    "SENSING_OF_SIZE": "meud",
+    "LOOKS_SIZE": "meud",
     "SENSING_OF_BACKDROPNAME": "ainm a’ chùlaibh",
     "LOOKS_BACKDROPNUMBERNAME": "%1 a’ chùlaibh",
     "SENSING_OF_BACKDROPNUMBER": "àireamh a’ chùlaibh",
@@ -261,6 +261,5 @@
     "le briogadh air @greenFlag": "EVENT_WHENFLAGCLICKED",
     "deireadh": "scratchblocks:end"
   },
-  "name": "Gàidhlig",
-  "percentTranslated": 100
+  "name": "Gàidhlig"
 }

@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "сакриј",
     "LOOKS_SWITCHCOSTUMETO": "замени костим са %1",
     "LOOKS_NEXTCOSTUME": "следећи костим",
-    "LOOKS_NEXTBACKDROP_BLOCK": "следећа позадина",
+    "LOOKS_NEXTBACKDROP": "следећа позадина",
     "LOOKS_SWITCHBACKDROPTO": "промени позадину у %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "промени позадину у %1 и чекај",
     "LOOKS_CHANGEEFFECTBY": "промени ефекат %1 за %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "замени елемент %1 у %2 са %3",
     "DATA_SHOWLIST": "прикажи листу %1",
     "DATA_HIDELIST": "сакриј листу %1",
-    "SENSING_OF_XPOSITION": "x положај",
-    "SENSING_OF_YPOSITION": "y положај",
-    "SENSING_OF_DIRECTION": "смер",
+    "MOTION_XPOSITION": "место х",
+    "MOTION_YPOSITION": "место у",
+    "MOTION_DIRECTION": "смер",
     "SENSING_OF_COSTUMENUMBER": "број костима",
     "LOOKS_COSTUMENUMBERNAME": "костим %1",
-    "SENSING_OF_SIZE": "величина",
+    "LOOKS_SIZE": "величина",
     "SENSING_OF_BACKDROPNAME": "име позадине",
     "LOOKS_BACKDROPNUMBERNAME": "позадина %1",
     "SENSING_OF_BACKDROPNUMBER": "број позадине",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Српски",
-  "percentTranslated": 100
+  "name": "Српски"
 }

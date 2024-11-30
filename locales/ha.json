@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "ɓoye",
     "LOOKS_SWITCHCOSTUMETO": "sauya fasalin zuwa %1",
     "LOOKS_NEXTCOSTUME": "fasali na gaba",
-    "LOOKS_NEXTBACKDROP_BLOCK": "hoton fage na gaba",
+    "LOOKS_NEXTBACKDROP": "hoton fage na gaba",
     "LOOKS_SWITCHBACKDROPTO": "sauya hoton fage zuwa %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "sauya hoton fage zuwa %1 kuma a jira",
     "LOOKS_CHANGEEFFECTBY": "canza tsarin %1 zuwa %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "mayar da abun %1 na %2 da %3",
     "DATA_SHOWLIST": "nuna jerin %1",
     "DATA_HIDELIST": "ɓoye jerin %1",
-    "SENSING_OF_XPOSITION": "matsayin x",
-    "SENSING_OF_YPOSITION": "matsayin y",
-    "SENSING_OF_DIRECTION": "mafuskanta",
+    "MOTION_XPOSITION": "matsayin x",
+    "MOTION_YPOSITION": "matsayin y",
+    "MOTION_DIRECTION": "mafuskanta",
     "SENSING_OF_COSTUMENUMBER": "fasali #",
     "LOOKS_COSTUMENUMBERNAME": "fasalin %1",
-    "SENSING_OF_SIZE": "girma",
+    "LOOKS_SIZE": "girma",
     "SENSING_OF_BACKDROPNAME": "sunan hoton fage",
     "LOOKS_BACKDROPNUMBERNAME": "hoton fagen %1",
     "SENSING_OF_BACKDROPNUMBER": "hoton fage",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Hausa",
-  "percentTranslated": 100
+  "name": "Hausa"
 }

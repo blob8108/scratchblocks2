@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "شاردنەوە",
     "LOOKS_SWITCHCOSTUMETO": "گۆڕینی بەرگ بۆ %1",
     "LOOKS_NEXTCOSTUME": "بەرگی دواتر",
-    "LOOKS_NEXTBACKDROP_BLOCK": "پاشبنەمای دواتر",
+    "LOOKS_NEXTBACKDROP": "پاشبنەمای دواتر",
     "LOOKS_SWITCHBACKDROPTO": "گۆڕینی پاشبنەما بۆ %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "گۆڕینی پاشبنەما بۆ %1 و چاوەڕێ بکە",
     "LOOKS_CHANGEEFFECTBY": "گۆڕینی %1 کاریگەری بە %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "گۆڕینەوەی دانە %1 لە %2 لەگەڵ %3",
     "DATA_SHOWLIST": "پیشاندانی لیست %1",
     "DATA_HIDELIST": "شاردنەوەی لیست %1",
-    "SENSING_OF_XPOSITION": "شوێنی x",
-    "SENSING_OF_YPOSITION": "شوێنی y",
-    "SENSING_OF_DIRECTION": "ئاڕاستە",
+    "MOTION_XPOSITION": "شوێنی x",
+    "MOTION_YPOSITION": "شوێنی y",
+    "MOTION_DIRECTION": "ئاڕاستە",
     "SENSING_OF_COSTUMENUMBER": "بەرگ #",
     "LOOKS_COSTUMENUMBERNAME": "بەرگ %1",
-    "SENSING_OF_SIZE": "قەبارە",
+    "LOOKS_SIZE": "قەبارە",
     "SENSING_OF_BACKDROPNAME": "ناوی پاشبنەما",
     "LOOKS_BACKDROPNUMBERNAME": "پاشبنه‌ما %1",
     "SENSING_OF_BACKDROPNUMBER": "پاشبنه‌ما #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "کوردیی ناوەندی",
-  "percentTranslated": 100
+  "name": "کوردیی ناوەندی"
 }

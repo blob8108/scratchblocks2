@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "εξαφανίσου",
     "LOOKS_SWITCHCOSTUMETO": "άλλαξε ενδυμασία σε %1",
     "LOOKS_NEXTCOSTUME": "επόμενη ενδυμασία",
-    "LOOKS_NEXTBACKDROP_BLOCK": "επόμενο υπόβαθρο",
+    "LOOKS_NEXTBACKDROP": "επόμενο υπόβαθρο",
     "LOOKS_SWITCHBACKDROPTO": "άλλαξε υπόβαθρο σε %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "άλλαξε υπόβαθρο σε %1 και περίμενε",
     "LOOKS_CHANGEEFFECTBY": "άλλαξε εφέ %1 κατά %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "αντικατάστησε στοιχείο %1 λίστας %2 με %3",
     "DATA_SHOWLIST": "εμφάνισε λίστα %1",
     "DATA_HIDELIST": "απόκρυψε λίστα %1",
-    "SENSING_OF_XPOSITION": "θέση x",
-    "SENSING_OF_YPOSITION": "θέση y",
-    "SENSING_OF_DIRECTION": "κατεύθυνση",
+    "MOTION_XPOSITION": "θέση x",
+    "MOTION_YPOSITION": "θέση y",
+    "MOTION_DIRECTION": "κατεύθυνση",
     "SENSING_OF_COSTUMENUMBER": "# ενδυμασίας",
     "LOOKS_COSTUMENUMBERNAME": "ενδυμασία %1",
-    "SENSING_OF_SIZE": "μέγεθος",
+    "LOOKS_SIZE": "μέγεθος",
     "SENSING_OF_BACKDROPNAME": "όνομα υποβάθρου",
     "LOOKS_BACKDROPNUMBERNAME": "υπόβαθρο %1",
     "SENSING_OF_BACKDROPNUMBER": "# υποβάθρου",
@@ -263,6 +263,5 @@
     "Όταν στην πράσινη σημαία γίνει κλικ": "EVENT_WHENFLAGCLICKED",
     "τέλος": "scratchblocks:end"
   },
-  "name": "Ελληνικά",
-  "percentTranslated": 100
+  "name": "Ελληνικά"
 }

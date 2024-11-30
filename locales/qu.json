@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "pakay",
     "LOOKS_SWITCHCOSTUMETO": "tikray pachata %1",
     "LOOKS_NEXTCOSTUME": "huknin pacha",
-    "LOOKS_NEXTBACKDROP_BLOCK": "huk uku lliklla",
+    "LOOKS_NEXTBACKDROP": "huk uku lliklla",
     "LOOKS_SWITCHBACKDROPTO": "tikray ukuqillqayta %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "tikray ukuqillqayta %1 hinaspa suyay",
     "LOOKS_CHANGEEFFECTBY": "tikray %1 imayna rikuriqninta kaywan %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "kikraykuy chayta %1 kaymanta %2 kaywan %3",
     "DATA_SHOWLIST": "qawachiy qillqayta %1",
     "DATA_HIDELIST": "pakay qillqayta %1",
-    "SENSING_OF_XPOSITION": "x sayay",
-    "SENSING_OF_YPOSITION": "y sayay",
-    "SENSING_OF_DIRECTION": "maypi",
+    "MOTION_XPOSITION": "x sayay",
+    "MOTION_YPOSITION": "y sayay",
+    "MOTION_DIRECTION": "maypi",
     "SENSING_OF_COSTUMENUMBER": "pacha #",
     "LOOKS_COSTUMENUMBERNAME": "pacha %1",
-    "SENSING_OF_SIZE": "hatunin",
+    "LOOKS_SIZE": "hatunin",
     "SENSING_OF_BACKDROPNAME": "hipaynin sutin",
     "LOOKS_BACKDROPNUMBERNAME": "uku lliklla %1",
     "SENSING_OF_BACKDROPNUMBER": "hipaynin",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Kichwa",
-  "percentTranslated": 100
+  "name": "Kichwa"
 }

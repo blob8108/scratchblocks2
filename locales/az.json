@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "gizlən",
     "LOOKS_SWITCHCOSTUMETO": "%1 libasına dəyiş",
     "LOOKS_NEXTCOSTUME": "növbəti libas",
-    "LOOKS_NEXTBACKDROP_BLOCK": "növbəti fon",
+    "LOOKS_NEXTBACKDROP": "növbəti fon",
     "LOOKS_SWITCHBACKDROPTO": "%1 fonuna dəyiş",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "fonu %1 fonuna dəyiş və gözlə",
     "LOOKS_CHANGEEFFECTBY": "%1 effektini %2 qədər dəyiş",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%1 elementini %2 siyahısında %3 ilə əvəz et",
     "DATA_SHOWLIST": "%1 siyahısını göstər",
     "DATA_HIDELIST": "%1 siyahısını gizlət",
-    "SENSING_OF_XPOSITION": "x mövqeyi",
-    "SENSING_OF_YPOSITION": "y mövqeyi",
-    "SENSING_OF_DIRECTION": "istiqamət",
+    "MOTION_XPOSITION": "x mövqeyi",
+    "MOTION_YPOSITION": "y mövqeyi",
+    "MOTION_DIRECTION": "istiqamət",
     "SENSING_OF_COSTUMENUMBER": "libas #",
     "LOOKS_COSTUMENUMBERNAME": "%1 libası",
-    "SENSING_OF_SIZE": "ölçü",
+    "LOOKS_SIZE": "ölçü",
     "SENSING_OF_BACKDROPNAME": "fonun adı",
     "LOOKS_BACKDROPNUMBERNAME": "%1 fonu",
     "SENSING_OF_BACKDROPNUMBER": "fon #",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Azeri",
-  "percentTranslated": 100
+  "name": "Azeri"
 }

@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "yashirish",
     "LOOKS_SWITCHCOSTUMETO": "ko'rinishni %1 ga o'zgartir",
     "LOOKS_NEXTCOSTUME": "keyingi ko'rinish",
-    "LOOKS_NEXTBACKDROP_BLOCK": "keyingi fon",
+    "LOOKS_NEXTBACKDROP": "keyingi fon",
     "LOOKS_SWITCHBACKDROPTO": "fonni %1 ga o'zgartir",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "%1 fonga o'zgartirib kutish",
     "LOOKS_CHANGEEFFECTBY": "%1 effektni %2 ga o'zgartir",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 ro'yxatning %1 chi mavzusini %3 ga o'zgartirish",
     "DATA_SHOWLIST": "%1 ro'yxatni ko'rsatish",
     "DATA_HIDELIST": "%1 ro'yxatni yashirish",
-    "SENSING_OF_XPOSITION": "X koordinatasi",
-    "SENSING_OF_YPOSITION": "Y koordinatasi",
-    "SENSING_OF_DIRECTION": "yo'nalish",
+    "MOTION_XPOSITION": "x koordinatasi",
+    "MOTION_YPOSITION": "y koordinatasi",
+    "MOTION_DIRECTION": "yo'nalish",
     "SENSING_OF_COSTUMENUMBER": "kostyum #",
     "LOOKS_COSTUMENUMBERNAME": "ko'rinish %1",
-    "SENSING_OF_SIZE": "o'lcham",
+    "LOOKS_SIZE": "o'lcham",
     "SENSING_OF_BACKDROPNAME": "fonning nomi",
     "LOOKS_BACKDROPNUMBERNAME": "fon %1",
     "SENSING_OF_BACKDROPNUMBER": "fonning soni",
@@ -257,6 +257,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Oʻzbekcha",
-  "percentTranslated": 100
+  "name": "Oʻzbekcha"
 }

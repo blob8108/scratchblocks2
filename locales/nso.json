@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "fihla",
     "LOOKS_SWITCHCOSTUMETO": "fetolela khosetšhumo go %1",
     "LOOKS_NEXTCOSTUME": "khosetšhumo ye e latelago",
-    "LOOKS_NEXTBACKDROP_BLOCK": "bokamorago bjo bo latelago",
+    "LOOKS_NEXTBACKDROP": "bokamorago bjo bo latelago",
     "LOOKS_SWITCHBACKDROPTO": "fetola bokamorago go %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "fetola bokamorago go %1 gomme o lete",
     "LOOKS_CHANGEEFFECTBY": "fetola %1 khuetšo ka %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "tšhentšha selo %1 ya %2 ka %3",
     "DATA_SHOWLIST": "laetša lenaneo %1",
     "DATA_HIDELIST": "fihla lenaneo %1",
-    "SENSING_OF_XPOSITION": "boemo ba x",
-    "SENSING_OF_YPOSITION": "boemo ba y",
-    "SENSING_OF_DIRECTION": "thoko",
+    "MOTION_XPOSITION": "boemo ba x",
+    "MOTION_YPOSITION": "boemo ba y",
+    "MOTION_DIRECTION": "thoko",
     "SENSING_OF_COSTUMENUMBER": "khosetšhumo #",
     "LOOKS_COSTUMENUMBERNAME": "khosetšhumo %1",
-    "SENSING_OF_SIZE": "bogolo",
+    "LOOKS_SIZE": "bogolo",
     "SENSING_OF_BACKDROPNAME": "leina la bokamorago",
     "LOOKS_BACKDROPNUMBERNAME": "bokamorago%1",
     "SENSING_OF_BACKDROPNUMBER": "bokamorago #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Sepedi",
-  "percentTranslated": 100
+  "name": "Sepedi"
 }

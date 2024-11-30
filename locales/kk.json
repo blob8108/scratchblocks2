@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "жасыру",
     "LOOKS_SWITCHCOSTUMETO": "киімін %1ге ауыстыру",
     "LOOKS_NEXTCOSTUME": "келесі костюм",
-    "LOOKS_NEXTBACKDROP_BLOCK": "келесі фон",
+    "LOOKS_NEXTBACKDROP": "келесі фон",
     "LOOKS_SWITCHBACKDROPTO": "аясын %1ге ауыстыру",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "аясын %1ге ауыстырып күту",
     "LOOKS_CHANGEEFFECTBY": "%1 әсерін %2ге өзерту",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2нің %1ін %3пен алмастыру",
     "DATA_SHOWLIST": "%1 тізімін көрсет",
     "DATA_HIDELIST": "%1 тізімін жасыр",
-    "SENSING_OF_XPOSITION": "x орны",
-    "SENSING_OF_YPOSITION": "y орны",
-    "SENSING_OF_DIRECTION": "бағыт",
+    "MOTION_XPOSITION": "x орны",
+    "MOTION_YPOSITION": "y орны",
+    "MOTION_DIRECTION": "бағыт",
     "SENSING_OF_COSTUMENUMBER": "костюм #",
     "LOOKS_COSTUMENUMBERNAME": "%1 киімі",
-    "SENSING_OF_SIZE": "өлшем",
+    "LOOKS_SIZE": "өлшем",
     "SENSING_OF_BACKDROPNAME": "фонның аты",
     "LOOKS_BACKDROPNUMBERNAME": "%1 аясы",
     "SENSING_OF_BACKDROPNUMBER": "фон #",
@@ -258,6 +258,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "қазақша",
-  "percentTranslated": 100
+  "name": "қазақша"
 }

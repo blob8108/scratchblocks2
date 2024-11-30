@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "verberg",
     "LOOKS_SWITCHCOSTUMETO": "ruil kostuum na %1",
     "LOOKS_NEXTCOSTUME": "volgende kostuum",
-    "LOOKS_NEXTBACKDROP_BLOCK": "volgende agtergrond",
+    "LOOKS_NEXTBACKDROP": "volgende agtergrond",
     "LOOKS_SWITCHBACKDROPTO": "ruil agtergrond na %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ruil agtergrond na %1 en wag",
     "LOOKS_CHANGEEFFECTBY": "verander %1 effek met %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "vervang item %1 van %2 met %3",
     "DATA_SHOWLIST": "vertoon lys %1",
     "DATA_HIDELIST": "verberg lys %1",
-    "SENSING_OF_XPOSITION": "x posisie",
-    "SENSING_OF_YPOSITION": "y posisie",
-    "SENSING_OF_DIRECTION": "rigting",
+    "MOTION_XPOSITION": "x posisie",
+    "MOTION_YPOSITION": "y posisie",
+    "MOTION_DIRECTION": "rigting",
     "SENSING_OF_COSTUMENUMBER": "kostuum #",
     "LOOKS_COSTUMENUMBERNAME": "kostuum %1",
-    "SENSING_OF_SIZE": "grootte",
+    "LOOKS_SIZE": "grootte",
     "SENSING_OF_BACKDROPNAME": "agtergrondnaam",
     "LOOKS_BACKDROPNUMBERNAME": "agtergrond %1",
     "SENSING_OF_BACKDROPNUMBER": "agtergrond #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Afrikaans",
-  "percentTranslated": 100
+  "name": "Afrikaans"
 }

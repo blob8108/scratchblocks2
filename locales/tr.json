@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "gizle",
     "LOOKS_SWITCHCOSTUMETO": "%1 kılığına geç",
     "LOOKS_NEXTCOSTUME": "sonraki kostüm",
-    "LOOKS_NEXTBACKDROP_BLOCK": "sonraki dekor",
+    "LOOKS_NEXTBACKDROP": "sonraki dekor",
     "LOOKS_SWITCHBACKDROPTO": "%1 dekoruna geç",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "%1 dekoruna geç ve bekle",
     "LOOKS_CHANGEEFFECTBY": "%1 etkisini %2 değiştir",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 öğesinin %1 öğesini %3 ile değiştir",
     "DATA_SHOWLIST": "%1 listesini göster",
     "DATA_HIDELIST": "%1 listesini gizle",
-    "SENSING_OF_XPOSITION": "x konumu",
-    "SENSING_OF_YPOSITION": "y konumu",
-    "SENSING_OF_DIRECTION": "yön",
+    "MOTION_XPOSITION": "x konumu",
+    "MOTION_YPOSITION": "y konumu",
+    "MOTION_DIRECTION": "yön",
     "SENSING_OF_COSTUMENUMBER": "kostüm #",
     "LOOKS_COSTUMENUMBERNAME": "kostüm %1",
-    "SENSING_OF_SIZE": "büyüklük",
+    "LOOKS_SIZE": "büyüklük",
     "SENSING_OF_BACKDROPNAME": "dekorun adı",
     "LOOKS_BACKDROPNUMBERNAME": "dekor %1",
     "SENSING_OF_BACKDROPNUMBER": "dekor #",
@@ -264,6 +264,5 @@
     "yeşil bayrak tıklandığında": "EVENT_WHENFLAGCLICKED",
     "son": "scratchblocks:end"
   },
-  "name": "Türkçe",
-  "percentTranslated": 100
+  "name": "Türkçe"
 }

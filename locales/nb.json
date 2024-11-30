@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "skjul",
     "LOOKS_SWITCHCOSTUMETO": "bytt drakt til %1",
     "LOOKS_NEXTCOSTUME": "neste drakt",
-    "LOOKS_NEXTBACKDROP_BLOCK": "neste bakgrunn",
+    "LOOKS_NEXTBACKDROP": "neste bakgrunn",
     "LOOKS_SWITCHBACKDROPTO": "bytt bakgrunn til %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "bytt bakgrunn til %1 og vent",
     "LOOKS_CHANGEEFFECTBY": "endre %1 effekt med %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "erstatt element %1 i %2 med %3",
     "DATA_SHOWLIST": "vis liste %1",
     "DATA_HIDELIST": "skjul liste %1",
-    "SENSING_OF_XPOSITION": "x-posisjon",
-    "SENSING_OF_YPOSITION": "y-posisjon",
-    "SENSING_OF_DIRECTION": "retning",
+    "MOTION_XPOSITION": "x-posisjon",
+    "MOTION_YPOSITION": "y-posisjon",
+    "MOTION_DIRECTION": "retning",
     "SENSING_OF_COSTUMENUMBER": "drakt nr.",
     "LOOKS_COSTUMENUMBERNAME": "drakt %1",
-    "SENSING_OF_SIZE": "størrelse",
+    "LOOKS_SIZE": "størrelse",
     "SENSING_OF_BACKDROPNAME": "navn på bakgrunn",
     "LOOKS_BACKDROPNUMBERNAME": "bakgrunn %1",
     "SENSING_OF_BACKDROPNUMBER": "bakgrunn nr.",
@@ -261,6 +261,5 @@
     "når grønt flagg klikkes": "EVENT_WHENFLAGCLICKED",
     "slutt": "scratchblocks:end"
   },
-  "name": "Norsk Bokmål",
-  "percentTranslated": 100
+  "name": "Norsk Bokmål"
 }

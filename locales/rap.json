@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "naʾa",
     "LOOKS_SWITCHCOSTUMETO": "ka kamiare te diseño ki te %1",
     "LOOKS_NEXTCOSTUME": "te rua diseño",
-    "LOOKS_NEXTBACKDROP_BLOCK": "te rua tuʾa nui",
+    "LOOKS_NEXTBACKDROP": "te rua tuʾa nui",
     "LOOKS_SWITCHBACKDROPTO": "ka kamiare te tuʾa nui ki te %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "kamiare te tuʾa nui ki te %1 e ka tiaki",
     "LOOKS_CHANGEEFFECTBY": "haka rahi te efecto %1 %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ka hahaʾo te rua meʾe %1 o te %2 hai %3",
     "DATA_SHOWLIST": "haka tikeʾa te parau o te meʾe %1",
     "DATA_HIDELIST": "naʾa te parau %1",
-    "SENSING_OF_XPOSITION": "he noho o te x",
-    "SENSING_OF_YPOSITION": "he noho o te y",
-    "SENSING_OF_DIRECTION": "ara",
+    "MOTION_XPOSITION": "he noho o te x",
+    "MOTION_YPOSITION": "he noho o te y",
+    "MOTION_DIRECTION": "ara",
     "SENSING_OF_COSTUMENUMBER": "# o te diseño",
     "LOOKS_COSTUMENUMBERNAME": "%1 o te diseño",
-    "SENSING_OF_SIZE": "he haito",
+    "LOOKS_SIZE": "he haito",
     "SENSING_OF_BACKDROPNAME": "iŋoa o te tuʾa nui",
     "LOOKS_BACKDROPNUMBERNAME": "%1 o te tuʾa nui",
     "SENSING_OF_BACKDROPNUMBER": "o te tuʾa nui",
@@ -258,6 +258,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Rapa Nui",
-  "percentTranslated": 100
+  "name": "Rapa Nui"
 }

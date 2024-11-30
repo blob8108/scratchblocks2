@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "slėpk",
     "LOOKS_SWITCHCOSTUMETO": "kaukė = %1",
     "LOOKS_NEXTCOSTUME": "kita kaukė",
-    "LOOKS_NEXTBACKDROP_BLOCK": "kitas  fonas",
+    "LOOKS_NEXTBACKDROP": "kitas  fonas",
     "LOOKS_SWITCHBACKDROPTO": "fonas = %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "fonas = %1 (palauk, kol pasikeis)",
     "LOOKS_CHANGEEFFECTBY": "efektą %1 padidink %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "sąrašo %2  %1 vietai priskirti %3",
     "DATA_SHOWLIST": "rodyti sąrašą %1",
     "DATA_HIDELIST": "slėpti sąrašą %1",
-    "SENSING_OF_XPOSITION": "x koordinatė",
-    "SENSING_OF_YPOSITION": "y koordinatė",
-    "SENSING_OF_DIRECTION": "kryptis",
+    "MOTION_XPOSITION": "x vieta",
+    "MOTION_YPOSITION": "y vieta",
+    "MOTION_DIRECTION": "kryptis",
     "SENSING_OF_COSTUMENUMBER": "kaukės nr.",
     "LOOKS_COSTUMENUMBERNAME": "kaukė %1",
-    "SENSING_OF_SIZE": "dydis",
+    "LOOKS_SIZE": "dydis",
     "SENSING_OF_BACKDROPNAME": "fono pavadinimas",
     "LOOKS_BACKDROPNUMBERNAME": "fonas %1",
     "SENSING_OF_BACKDROPNUMBER": "fono nr.",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Lietuvių",
-  "percentTranslated": 100
+  "name": "Lietuvių"
 }

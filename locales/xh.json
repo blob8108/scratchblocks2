@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "fihla",
     "LOOKS_SWITCHCOSTUMETO": "guqulela ikhostyum ku %1",
     "LOOKS_NEXTCOSTUME": "elandelayo ikhostyum",
-    "LOOKS_NEXTBACKDROP_BLOCK": "umva olandelayo",
+    "LOOKS_NEXTBACKDROP": "umva olandelayo",
     "LOOKS_SWITCHBACKDROPTO": "guqulelaa umva ku %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "guqula umva %1 ulinde",
     "LOOKS_CHANGEEFFECTBY": "guqula %1 ifuthe ngo %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "beka endaweni yento %1 ka %2 u %3",
     "DATA_SHOWLIST": "bonisa uluhlu %1",
     "DATA_HIDELIST": "fihla uluhlu %1",
-    "SENSING_OF_XPOSITION": "indawo x",
-    "SENSING_OF_YPOSITION": "indawo y",
-    "SENSING_OF_DIRECTION": "ikhondo",
+    "MOTION_XPOSITION": "indawo ka x",
+    "MOTION_YPOSITION": "indawo ka y",
+    "MOTION_DIRECTION": "ulwalathiso",
     "SENSING_OF_COSTUMENUMBER": "ikhostyum #",
     "LOOKS_COSTUMENUMBERNAME": "ikhostyum %1",
-    "SENSING_OF_SIZE": "ubungakanani",
+    "LOOKS_SIZE": "ubungakanani",
     "SENSING_OF_BACKDROPNAME": "ingama lomva",
     "LOOKS_BACKDROPNUMBERNAME": "umva %1",
     "SENSING_OF_BACKDROPNUMBER": "umva",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "isiXhosa",
-  "percentTranslated": 100
+  "name": "isiXhosa"
 }

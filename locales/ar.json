@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "اختفِ",
     "LOOKS_SWITCHCOSTUMETO": "غيِّر المظهر إلى %1",
     "LOOKS_NEXTCOSTUME": "المظهر التالي",
-    "LOOKS_NEXTBACKDROP_BLOCK": "الخلفية التالية",
+    "LOOKS_NEXTBACKDROP": "الخلفية التالية",
     "LOOKS_SWITCHBACKDROPTO": "غيِّر الخلفية إلى %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "غيِّر الخلفية إلى %1 وانتظر",
     "LOOKS_CHANGEEFFECTBY": "غيّر مؤثر %1 بمقدار %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "استبدل %3 بالعنصر %1 من %2",
     "DATA_SHOWLIST": "أظهر اللائحة %1",
     "DATA_HIDELIST": "أخفِ اللائحة %1",
-    "SENSING_OF_XPOSITION": "الموضع س",
-    "SENSING_OF_YPOSITION": "الموضع ص",
-    "SENSING_OF_DIRECTION": "الاتجاه",
+    "MOTION_XPOSITION": "الموضع س",
+    "MOTION_YPOSITION": "الموضع ص",
+    "MOTION_DIRECTION": "الاتجاه",
     "SENSING_OF_COSTUMENUMBER": "رقم المظهر",
     "LOOKS_COSTUMENUMBERNAME": "%1 المظهر",
-    "SENSING_OF_SIZE": "الحجم",
+    "LOOKS_SIZE": "الحجم",
     "SENSING_OF_BACKDROPNAME": "اسم الخلفية",
     "LOOKS_BACKDROPNUMBERNAME": "%1 الخلفية",
     "SENSING_OF_BACKDROPNUMBER": "رقم الخلفية",
@@ -256,6 +256,5 @@
     "10^"
   ],
   "aliases": {},
-  "name": "العربية",
-  "percentTranslated": 100
+  "name": "العربية"
 }

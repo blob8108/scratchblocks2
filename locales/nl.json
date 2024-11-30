@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "verdwijn",
     "LOOKS_SWITCHCOSTUMETO": "verander uiterlijk naar %1",
     "LOOKS_NEXTCOSTUME": "volgend uiterlijk",
-    "LOOKS_NEXTBACKDROP_BLOCK": "volgende achtergrond",
+    "LOOKS_NEXTBACKDROP": "volgende achtergrond",
     "LOOKS_SWITCHBACKDROPTO": "verander achtergrond naar %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "verander achtergrond naar %1 en wacht",
     "LOOKS_CHANGEEFFECTBY": "verander %1 effect met %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "vervang item %1 van %2 door %3",
     "DATA_SHOWLIST": "toon lijst %1",
     "DATA_HIDELIST": "verberg lijst %1",
-    "SENSING_OF_XPOSITION": "x-positie",
-    "SENSING_OF_YPOSITION": "y-positie",
-    "SENSING_OF_DIRECTION": "richting",
+    "MOTION_XPOSITION": "x-positie",
+    "MOTION_YPOSITION": "y-positie",
+    "MOTION_DIRECTION": "richting",
     "SENSING_OF_COSTUMENUMBER": "uiterlijk #",
     "LOOKS_COSTUMENUMBERNAME": "uiterlijk %1",
-    "SENSING_OF_SIZE": "grootte",
+    "LOOKS_SIZE": "grootte",
     "SENSING_OF_BACKDROPNAME": "achtergrond naam",
     "LOOKS_BACKDROPNUMBERNAME": "achtergrond %1",
     "SENSING_OF_BACKDROPNUMBER": "achtergrond #",
@@ -261,6 +261,5 @@
     "wanneer groene vlag wordt aangeklikt": "EVENT_WHENFLAGCLICKED",
     "einde": "scratchblocks:end"
   },
-  "name": "Nederlands",
-  "percentTranslated": 100
+  "name": "Nederlands"
 }

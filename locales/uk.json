@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "сховати",
     "LOOKS_SWITCHCOSTUMETO": "змінити образ на %1",
     "LOOKS_NEXTCOSTUME": "наступний образ",
-    "LOOKS_NEXTBACKDROP_BLOCK": "наступне тло",
+    "LOOKS_NEXTBACKDROP": "наступне тло",
     "LOOKS_SWITCHBACKDROPTO": "змінити тло на %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "змінити тло на %1 та чекати",
     "LOOKS_CHANGEEFFECTBY": "змінити ефект %1 на %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "замінити елемент %1 в %2 на %3",
     "DATA_SHOWLIST": "показати список %1",
     "DATA_HIDELIST": "сховати список %1",
-    "SENSING_OF_XPOSITION": "значення x",
-    "SENSING_OF_YPOSITION": "значення y",
-    "SENSING_OF_DIRECTION": "напрям",
+    "MOTION_XPOSITION": "значення x",
+    "MOTION_YPOSITION": "значення y",
+    "MOTION_DIRECTION": "напрям",
     "SENSING_OF_COSTUMENUMBER": "образ #",
     "LOOKS_COSTUMENUMBERNAME": "образ %1",
-    "SENSING_OF_SIZE": "розмір",
+    "LOOKS_SIZE": "розмір",
     "SENSING_OF_BACKDROPNAME": "ім’я тла",
     "LOOKS_BACKDROPNUMBERNAME": "тло %1",
     "SENSING_OF_BACKDROPNUMBER": "тло #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Українська",
-  "percentTranslated": 100
+  "name": "Українська"
 }

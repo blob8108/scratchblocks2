@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "esconder",
     "LOOKS_SWITCHCOSTUMETO": "cambiar disfraz a %1",
     "LOOKS_NEXTCOSTUME": "siguiente disfraz",
-    "LOOKS_NEXTBACKDROP_BLOCK": "siguiente fondo",
+    "LOOKS_NEXTBACKDROP": "siguiente fondo",
     "LOOKS_SWITCHBACKDROPTO": "cambiar fondo a %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "cambiar fondo a %1 y esperar",
     "LOOKS_CHANGEEFFECTBY": "sumar al efecto %1 %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "reemplazar elemento %1 de %2 con %3",
     "DATA_SHOWLIST": "mostrar lista %1",
     "DATA_HIDELIST": "esconder lista %1",
-    "SENSING_OF_XPOSITION": "posición en x",
-    "SENSING_OF_YPOSITION": "posición en y",
-    "SENSING_OF_DIRECTION": "dirección",
+    "MOTION_XPOSITION": "posición en x",
+    "MOTION_YPOSITION": "posición en y",
+    "MOTION_DIRECTION": "dirección",
     "SENSING_OF_COSTUMENUMBER": "# de disfraz",
     "LOOKS_COSTUMENUMBERNAME": "%1 de disfraz",
-    "SENSING_OF_SIZE": "tamaño",
+    "LOOKS_SIZE": "tamaño",
     "SENSING_OF_BACKDROPNAME": "nombre de fondo",
     "LOOKS_BACKDROPNUMBERNAME": "%1 de fondo",
     "SENSING_OF_BACKDROPNUMBER": "# de fondo",
@@ -261,6 +261,5 @@
     "al presionar bandera verde": "EVENT_WHENFLAGCLICKED",
     "fin": "scratchblocks:end"
   },
-  "name": "Español (España)",
-  "percentTranslated": 100
+  "name": "Español (España)"
 }

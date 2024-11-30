@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "숨기기",
     "LOOKS_SWITCHCOSTUMETO": "모양을 %1 (으)로 바꾸기",
     "LOOKS_NEXTCOSTUME": "다음 모양으로 바꾸기",
-    "LOOKS_NEXTBACKDROP_BLOCK": "다음 배경으로 바꾸기",
+    "LOOKS_NEXTBACKDROP": "다음 배경",
     "LOOKS_SWITCHBACKDROPTO": "배경을 %1 (으)로 바꾸기",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "배경을 %1 (으)로 바꾸고 기다리기",
     "LOOKS_CHANGEEFFECTBY": "%1 효과를 %2 만큼 바꾸기",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "%2 리스트의 %1 번째 항목을 %3 으로 바꾸기",
     "DATA_SHOWLIST": "%1 리스트 보이기",
     "DATA_HIDELIST": "%1 리스트 숨기기",
-    "SENSING_OF_XPOSITION": "x좌표",
-    "SENSING_OF_YPOSITION": "y좌표",
-    "SENSING_OF_DIRECTION": "방향",
+    "MOTION_XPOSITION": "x좌표",
+    "MOTION_YPOSITION": "y좌표",
+    "MOTION_DIRECTION": "방향",
     "SENSING_OF_COSTUMENUMBER": "모양 번호",
     "LOOKS_COSTUMENUMBERNAME": "모양 %1",
-    "SENSING_OF_SIZE": "크기",
+    "LOOKS_SIZE": "크기",
     "SENSING_OF_BACKDROPNAME": "배경 이름",
     "LOOKS_BACKDROPNUMBERNAME": "배경 %1",
     "SENSING_OF_BACKDROPNUMBER": "배경 번호",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "한국어",
-  "percentTranslated": 100
+  "name": "한국어"
 }

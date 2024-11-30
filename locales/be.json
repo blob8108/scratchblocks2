@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "схавацца",
     "LOOKS_SWITCHCOSTUMETO": "змяніць касцюм на %1",
     "LOOKS_NEXTCOSTUME": "наступны касцюм",
-    "LOOKS_NEXTBACKDROP_BLOCK": "наступны фон",
+    "LOOKS_NEXTBACKDROP": "наступны фон",
     "LOOKS_SWITCHBACKDROPTO": "змяніць фон на %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "змяніць фон на %1 і чакаць",
     "LOOKS_CHANGEEFFECTBY": "змяніць %1 эфект на %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "замяніць элемент %1 у %2 на %3",
     "DATA_SHOWLIST": "паказаць спіс %1",
     "DATA_HIDELIST": "схаваць спіс %1",
-    "SENSING_OF_XPOSITION": "пазіцыя X",
-    "SENSING_OF_YPOSITION": "пазіцыя Y",
-    "SENSING_OF_DIRECTION": "кірунак",
+    "MOTION_XPOSITION": "пазіцыя X",
+    "MOTION_YPOSITION": "пазіцыя Y",
+    "MOTION_DIRECTION": "кірунак",
     "SENSING_OF_COSTUMENUMBER": "касцюм #",
     "LOOKS_COSTUMENUMBERNAME": "касцюм %1",
-    "SENSING_OF_SIZE": "памер",
+    "LOOKS_SIZE": "памер",
     "SENSING_OF_BACKDROPNAME": "імя фону",
     "LOOKS_BACKDROPNUMBERNAME": "фон %1",
     "SENSING_OF_BACKDROPNUMBER": "фон #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "Беларуская",
-  "percentTranslated": 100
+  "name": "Беларуская"
 }

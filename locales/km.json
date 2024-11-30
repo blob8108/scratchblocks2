@@ -22,7 +22,7 @@
     "LOOKS_HIDE": "លាក់",
     "LOOKS_SWITCHCOSTUMETO": "ប្តូររូបរាងទៅជា %1",
     "LOOKS_NEXTCOSTUME": "រូបរាងបន្ទាប់",
-    "LOOKS_NEXTBACKDROP_BLOCK": "ផ្ទាំងខាងក្រោយបន្ទាប់",
+    "LOOKS_NEXTBACKDROP": "ផ្ទាំងខាងក្រោយបន្ទាប់",
     "LOOKS_SWITCHBACKDROPTO": "ប្ដូរផ្ទាំង​ខាងក្រោយ​ទៅជា %1",
     "LOOKS_SWITCHBACKDROPTOANDWAIT": "ប្ដូរផ្ទាំងខាង​ក្រោយ​ទៅជា %1 ហើយ​រងចាំ",
     "LOOKS_CHANGEEFFECTBY": "ប្តូរបែបផែន %1 ចំនួន %2",
@@ -95,12 +95,12 @@
     "DATA_REPLACEITEMOFLIST": "ជំនួសធាតុ %1 នៃ %2 ដោយ %3",
     "DATA_SHOWLIST": "បង្ហាញបញ្ជី %1",
     "DATA_HIDELIST": "លាក់បញ្ជី %1",
-    "SENSING_OF_XPOSITION": "ទីតាំង x",
-    "SENSING_OF_YPOSITION": "ទីតាំង y",
-    "SENSING_OF_DIRECTION": "ទិសដៅ",
+    "MOTION_XPOSITION": "ទីតាំង x",
+    "MOTION_YPOSITION": "ទីតាំង y",
+    "MOTION_DIRECTION": "ទិសដៅ",
     "SENSING_OF_COSTUMENUMBER": "រូបរាង #",
     "LOOKS_COSTUMENUMBERNAME": "រូបរាង %1",
-    "SENSING_OF_SIZE": "ទំហំ",
+    "LOOKS_SIZE": "ទំហំ",
     "SENSING_OF_BACKDROPNAME": "ឈ្មោះផ្ទាំងខាងក្រោយ",
     "LOOKS_BACKDROPNUMBERNAME": "ផ្ទាំងខាងក្រោយ %1",
     "SENSING_OF_BACKDROPNUMBER": "ផ្ទាំងខាងក្រោយ #",
@@ -256,6 +256,5 @@
     "10 ^"
   ],
   "aliases": {},
-  "name": "ភាសាខ្មែរ",
-  "percentTranslated": 100
+  "name": "ភាសាខ្មែរ"
 }
