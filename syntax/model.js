@@ -146,7 +146,8 @@ export class Block {
       shape === "stack" ||
       shape === "hat" ||
       shape === "cat" ||
-      shape === "c-block"
+      shape === "c-block" ||
+      shape === "define-hat"
     this.isFinal = /cap/.test(shape)
     this.isCommand = shape === "stack" || shape === "cap" || /block/.test(shape)
     this.isOutline = shape === "outline"
